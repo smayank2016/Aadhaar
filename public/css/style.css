@@ -1,0 +1,46 @@
+/*a {
+  color: #00B7FF;
+}*/
+
+.custom_tbl_header {
+    font-family: Gill Sans, Verdana;
+    color: #1a237e;
+    font-size: 18px;
+    line-height: 14px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-weight: bold;
+}
+
+.custom_card_content {
+    font-family: Gill Sans, Verdana;
+    color: #1b5e20;
+    font-size: 18px;
+    line-height: 10px;
+}
+
+.custom_card_title {
+    font-family: "Adobe Caslon Pro", "Hoefler Text", Georgia, Garamond, Times, serif;
+    color: black;
+    font-size: 18px;
+    line-height: 10px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.custom_scroll_div {
+    overflow: auto;
+}
+
+td {
+    font-family: Gill Sans, Verdana;
+    color: #1a237e;
+    font-size: 14px;
+    line-height: 10px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+#loader_title2 {
+    align-content: center;
+}
