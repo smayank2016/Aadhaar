@@ -20,6 +20,10 @@ var processaddata = function(callback) {
     var url = 'https://data.uidai.gov.in/uiddatacatalog/rest/UIDAI-ENR-GEOGRAPHY';
     // compute.performCalc(callback);
 
+
+    if (!fs.existsSync(filepath)) {
+        fs.mkdirSync(filepath);
+    }
     request({
         url: url,
         encoding: null,
