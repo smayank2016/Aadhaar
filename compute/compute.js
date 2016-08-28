@@ -4,7 +4,7 @@ var Async = require('async');
 var setcollection = require('collections/set');
 var jsonfile = require('jsonfile');
 var masterarray = [];
-
+var date = new Date();
 
 var performCalc = function(callback) {
     console.log('Starting Master Sync');
@@ -13,6 +13,7 @@ var performCalc = function(callback) {
     var mstrdata = [];
     var jsonstring;
     var jsonset = new setcollection();
+    var dateupdated = date.toISOString().substring(0, 10).replace(/-/g, '');
     Async.waterfall([
             function(searchindatacallback) {
                 console.log('Taking MasterFile as Base, searching in the Data File');
@@ -28,7 +29,8 @@ var performCalc = function(callback) {
                                                 "State": jsoncont.State,
                                                 "District": jsoncont.District,
                                                 "Aadhaar generated": (content["Aadhaar generated"] + jsoncont["Aadhaar generated"]),
-                                                "Enrolment Rejected": (content["Enrolment Rejected"] + jsoncont["Enrolment Rejected"])
+                                                "Enrolment Rejected": (content["Enrolment Rejected"] + jsoncont["Enrolment Rejected"]),
+                                                "Date Updated": dateupdated
                                             };
                                         }
                                     });
@@ -37,7 +39,8 @@ var performCalc = function(callback) {
                                     "State": content.State,
                                     "District": content.District,
                                     "Aadhaar generated": content["Aadhaar generated"],
-                                    "Enrolment Rejected": content["Enrolment Rejected"]
+                                    "Enrolment Rejected": content["Enrolment Rejected"],
+                                    "Date Updated": dateupdated
                                 };
                             }
                             jsonstring == "" ? "" : masterarray.push(jsonstring);
@@ -58,7 +61,8 @@ var performCalc = function(callback) {
                                 "State": jsoncont.State,
                                 "District": jsoncont.District,
                                 "Aadhaar generated": jsoncont["Aadhaar generated"],
-                                "Enrolment Rejected": jsoncont["Enrolment Rejected"]
+                                "Enrolment Rejected": jsoncont["Enrolment Rejected"],
+                                "Date Updated": dateupdated
                             };
                         }
                         jsonstring == "" ? "" : masterarray.push(jsonstring);
@@ -111,8 +115,8 @@ var getStateCounts = function(callback) {
     var set = new setcollection();
     var Aadhaar_Generated = 0
     console.log('In getStateCounts');
-    dateUpdated = fs.readFileSync(dateUpdatedfile).toString();
-    console.log(dateUpdated);
+    // dateUpdated = fs.readFileSync(dateUpdatedfile).toString();
+    // console.log('From File ' + dateUpdated);
     var content = JSON.parse(fs.readFileSync(masterfile));
     content.forEach(function(data) {
         set.add(data.State);
@@ -121,6 +125,7 @@ var getStateCounts = function(callback) {
     set.forEach(function(stateset) {
         JSON.parse(fs.readFileSync(masterfile)).forEach(function(masterdata) {
             if (stateset == masterdata.State) {
+                dateUpdated = masterdata["Date Updated"];
                 Aadhaar_Generated = Aadhaar_Generated + masterdata["Aadhaar generated"];
             }
         });
@@ -132,10 +137,11 @@ var getStateCounts = function(callback) {
         });
         Aadhaar_Generated = 0;
     });
-
+    console.log('Updated Date from master file ' + dateUpdated);
     dataarray.sort(function(a, b) {
         return a["Aadhaar Generated"] - b["Aadhaar Generated"];
     }).reverse();
+    // console.log(date.toISOString().substring(0, 10).replace(/-/g, ''));
     callback(dataarray);
 }
 

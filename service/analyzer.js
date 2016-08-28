@@ -73,15 +73,10 @@ var processaddata = function(callback) {
                                             console.log('In delete');
                                             fs.readdirSync(filepath)
                                                 .forEach(function(item) {
-                                                    // console.log(item);
-                                                    // item.lastIndexOf('.')
-                                                    dateUpdated = item.substr((item.lastIndexOf('.') - 8), 8);
-                                                    fs.writeFileSync(dateUpdatedfile, dateUpdated);
                                                     console.log('Downloaded File name is : ' + item);
                                                     fs.unlink(filepath + '//' + item);
                                                     console.log('Temp File Deleted');
-                                                })
-                                            console.log('Last Updated Date is ' + dateUpdated);
+                                                });
                                             deletecallback(null);
                                         }
                                     ],
