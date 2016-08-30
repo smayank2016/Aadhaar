@@ -5,85 +5,125 @@ var setcollection = require('collections/set');
 var jsonfile = require('jsonfile');
 var masterarray = [];
 var date = new Date();
-
+var masterdate = '';
 var performCalc = function(callback) {
     console.log('Starting Master Sync');
     var masterfile = path.resolve('./mstfolder/masterdata.json');
-    var datafile = path.resolve('./mstfolder/data.json');
+    var datafile = ''; //path.resolve('./mstfolder/data.json');
+    var filepath = path.resolve("./tmp/");
+    var checkToContinueFilePath = path.resolve('./tmp/*.json');
     var mstrdata = [];
+    var filename = ''
     var jsonstring;
+    var masterdate = '';
+    var localdate = '';
     var jsonset = new setcollection();
-    var dateupdated = date.toISOString().substring(0, 10).replace(/-/g, '');
-    Async.waterfall([
-            function(searchindatacallback) {
-                console.log('Taking MasterFile as Base, searching in the Data File');
-                try {
-                    JSON.parse(fs.readFileSync(masterfile))
-                        .map(function(content) {
-                            if (isPresentInData(content.State, content.District) == true) {
-                                JSON.parse(fs.readFileSync(datafile))
-                                    .forEach(function(jsoncont) {
-                                        // console.log('In jsoncont ' + content.State + "," + jsoncont.State);
-                                        if (content.State == jsoncont.State && content.District == jsoncont.District) {
+    require('glob')(checkToContinueFilePath, function(er, files) {
+        files.forEach(function(file) {
+            filename = file.substring(file.lastIndexOf('/') + 1);
+            datafile = path.resolve('./tmp/' + filename);
+            dateUpdated = (file).substr(((file).lastIndexOf('.') - 8), 8);
+            console.log("updated date is " + dateUpdated);
+            console.log(dateUpdated.substr(0, 4) + '-' + dateUpdated.substr(4, 2) + '-' + dateUpdated.substr(6, 2));
+            localdate = Date.parse(dateUpdated.substr(0, 4) + '-' + dateUpdated.substr(4, 2) + '-' + dateUpdated.substr(6, 2));
+            Async.waterfall([
+                    function(searchindatacallback) {
+                        console.log('Taking MasterFile as Base, searching in the Data File');
+                        try {
+                            JSON.parse(fs.readFileSync(masterfile))
+                                .map(function(content) {
+                                    // console.log(content["Date Updated"]);
+                                    masterdate = Date.parse(content["Date Updated"].substr(0, 4) + '-' + content["Date Updated"].substr(4, 2) + '-' + content["Date Updated"].substr(6, 2));
+                                    if (masterdate >= localdate) {
+                                        // console.log('MasterDate is either EoG then localdate, hence skipped');
+                                    } else {
+                                        if (isPresentInData(content.State, content.District) == true) {
+                                            JSON.parse(fs.readFileSync(datafile))
+                                                .forEach(function(jsoncont) {
+                                                    // console.log(jsoncont.State);
+                                                    // console.log('In jsoncont ' + content.State + "," + jsoncont.State);
+                                                    if (content.State == jsoncont.State && content.District == jsoncont.District) {
+                                                        jsonstring = {
+                                                            "State": jsoncont.State,
+                                                            "District": jsoncont.District,
+                                                            "Aadhaar generated": (content["Aadhaar generated"] + jsoncont["Aadhaar generated"]),
+                                                            "Enrolment Rejected": (content["Enrolment Rejected"] + jsoncont["Enrolment Rejected"]),
+                                                            "Date Updated": dateUpdated
+                                                        };
+                                                    }
+                                                });
+                                        } else {
                                             jsonstring = {
-                                                "State": jsoncont.State,
-                                                "District": jsoncont.District,
-                                                "Aadhaar generated": (content["Aadhaar generated"] + jsoncont["Aadhaar generated"]),
-                                                "Enrolment Rejected": (content["Enrolment Rejected"] + jsoncont["Enrolment Rejected"]),
-                                                "Date Updated": dateupdated
+                                                "State": content.State,
+                                                "District": content.District,
+                                                "Aadhaar generated": content["Aadhaar generated"],
+                                                "Enrolment Rejected": content["Enrolment Rejected"],
+                                                "Date Updated": dateUpdated
                                             };
                                         }
-                                    });
-                            } else {
-                                jsonstring = {
-                                    "State": content.State,
-                                    "District": content.District,
-                                    "Aadhaar generated": content["Aadhaar generated"],
-                                    "Enrolment Rejected": content["Enrolment Rejected"],
-                                    "Date Updated": dateupdated
-                                };
-                            }
-                            jsonstring == "" ? "" : masterarray.push(jsonstring);
-                            jsonstring = "";
-                        });
-                } catch (ex) {
-                    console.log(ex);
-                }
-                console.log('Taking MasterFile as Base, searching in the Data File : Finished');
-                searchindatacallback(null);
-            },
-            function(searchinmastercallback) {
-                console.log('Taking DataFile as Base, searching in the Master File');
-                JSON.parse(fs.readFileSync(datafile))
-                    .map(function(jsoncont) {
-                        if (isPresentInMaster(jsoncont.State, jsoncont.District) == false) {
-                            jsonstring = {
-                                "State": jsoncont.State,
-                                "District": jsoncont.District,
-                                "Aadhaar generated": jsoncont["Aadhaar generated"],
-                                "Enrolment Rejected": jsoncont["Enrolment Rejected"],
-                                "Date Updated": dateupdated
-                            };
+                                        jsonstring == "" ? "" : masterarray.push(jsonstring);
+                                        jsonstring = "";
+                                    }
+                                });
+                        } catch (ex) {
+                            console.log(ex);
                         }
-                        jsonstring == "" ? "" : masterarray.push(jsonstring);
-                        jsonstring = "";
-                    });
-                console.log('Taking DataFile as Base, searching in the Master File:Finished');
-                searchinmastercallback(null);
-            },
-            function(resultcallback) {
-                console.log('Writing Synced data back to Master File');
-                jsonfile.writeFileSync(masterfile, masterarray);
-                console.log('Writing Synced data back to Master File:Finished');
-                resultcallback(null);
-            }
-        ],
-        function(err, result) {
-            if (err) {
-                console.log(err);
-            }
-            // console.log(result);
+                        console.log('Taking MasterFile as Base, searching in the Data File : Finished');
+                        searchindatacallback(null);
+                    },
+                    function(searchinmastercallback) {
+                        console.log('Taking DataFile as Base, searching in the Master File');
+                        console.log('In searchinmastercallback ' + dateUpdated);
+                        JSON.parse(fs.readFileSync(datafile))
+                            .map(function(jsoncont) {
+                                if (isPresentInMaster(jsoncont.State, jsoncont.District) == false) {
+                                    jsonstring = {
+                                        "State": jsoncont.State,
+                                        "District": jsoncont.District,
+                                        "Aadhaar generated": jsoncont["Aadhaar generated"],
+                                        "Enrolment Rejected": jsoncont["Enrolment Rejected"],
+                                        "Date Updated": dateUpdated
+                                    };
+                                }
+                                jsonstring == "" ? "" : masterarray.push(jsonstring);
+                                jsonstring = "";
+                            });
+                        console.log('Taking DataFile as Base, searching in the Master File:Finished');
+                        searchinmastercallback(null);
+                    },
+                    function(resultcallback) {
+                        console.log('Writing Synced data back to Master File');
+                        // console.log(masterarray);
+
+                        if (masterarray[0] == undefined) {
+                            console.log('Writing Synced data back to Master File:Skipped');
+                        } else {
+                            jsonfile.writeFileSync(masterfile, masterarray);
+                            console.log('Writing Synced data back to Master File:Finished');
+                        }
+
+                        resultcallback(null);
+                    },
+                    function(deletecallback) {
+                        console.log('In delete');
+                        fs.readdirSync(filepath)
+                            .forEach(function(item) {
+                                // console.log('Downloaded File name is : ' + item);
+                                fs.unlink(filepath + '//' + item);
+                                console.log('File Deleted : ' + item);
+                            });
+                        deletecallback(null);
+                    }
+                ],
+                function(err, result) {
+                    if (err) {
+                        console.log('error is ' + err);
+                    }
+                });
         });
+    });
+    console.log("here");
+
     callback('Done');
 }
 var getCounts = function(statename, callback) {

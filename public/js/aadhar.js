@@ -15,7 +15,7 @@ function getStates() {
 
             result.forEach(function(statename) {
                 // console.log(statename["Date Updated"]);
-                dataUpdated = '20160828';
+                dataUpdated = statename["Date Updated"];
                 // console.log('this is ' + statename);
                 // htmldata = htmldata + '<a href="#!" class="collection-item">' + statename + '</a>';
                 if (count > 6) {
