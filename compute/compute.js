@@ -23,8 +23,8 @@ var performCalc = function(callback) {
             filename = file.substring(file.lastIndexOf('/') + 1);
             datafile = path.resolve('./tmp/' + filename);
             dateUpdated = (file).substr(((file).lastIndexOf('.') - 8), 8);
-            console.log("updated date is " + dateUpdated);
-            console.log(dateUpdated.substr(0, 4) + '-' + dateUpdated.substr(4, 2) + '-' + dateUpdated.substr(6, 2));
+            console.log("Downloaded file date is  " + dateUpdated);
+            // console.log(dateUpdated.substr(0, 4) + '-' + dateUpdated.substr(4, 2) + '-' + dateUpdated.substr(6, 2));
             localdate = Date.parse(dateUpdated.substr(0, 4) + '-' + dateUpdated.substr(4, 2) + '-' + dateUpdated.substr(6, 2));
             Async.waterfall([
                     function(searchindatacallback) {
@@ -34,6 +34,7 @@ var performCalc = function(callback) {
                                 .map(function(content) {
                                     // console.log(content["Date Updated"]);
                                     masterdate = Date.parse(content["Date Updated"].substr(0, 4) + '-' + content["Date Updated"].substr(4, 2) + '-' + content["Date Updated"].substr(6, 2));
+                                    console.log("Date from Master File " + masterdate);
                                     if (masterdate >= localdate) {
                                         // console.log('MasterDate is either EoG then localdate, hence skipped');
                                     } else {
@@ -98,7 +99,7 @@ var performCalc = function(callback) {
                         if (masterarray[0] == undefined) {
                             console.log('Writing Synced data back to Master File:Skipped');
                         } else {
-                            jsonfile.writeFileSync(masterfile, masterarray);
+                            // jsonfile.writeFileSync(masterfile, masterarray);
                             console.log('Writing Synced data back to Master File:Finished');
                         }
 
