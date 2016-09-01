@@ -70,7 +70,7 @@ var performCalc = function(callback) {
                         } catch (ex) {
                             console.log(ex);
                         }
-                        console.log('LOcal Date is : ' + localdate);
+                        console.log('Local Date is : ' + localdate);
                         console.log("Date from Master File " + masterdate);
                         console.log('Taking MasterFile as Base, searching in the Data File : Finished');
                         searchindatacallback(null);
@@ -98,7 +98,7 @@ var performCalc = function(callback) {
                     function(resultcallback) {
                         console.log('Writing Synced data back to Master File');
                         // console.log(masterarray);
-
+                        console.log(masterarray);
                         if (masterarray[0] == undefined) {
                             console.log('Writing Synced data back to Master File:Skipped');
                         } else {
