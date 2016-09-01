@@ -1,0 +1,3246 @@
+[{
+    "State": "Andhra Pradesh",
+    "District": "Ananthapuram",
+    "Aadhaar generated": 437,
+    "Enrolment Rejected": 100
+}, {
+    "State": "Andhra Pradesh",
+    "District": "Chittoor",
+    "Aadhaar generated": 563,
+    "Enrolment Rejected": 48
+}, {
+    "State": "Andhra Pradesh",
+    "District": "Cuddapah",
+    "Aadhaar generated": 302,
+    "Enrolment Rejected": 17
+}, {
+    "State": "Andhra Pradesh",
+    "District": "East Godavari",
+    "Aadhaar generated": 410,
+    "Enrolment Rejected": 50
+}, {
+    "State": "Andhra Pradesh",
+    "District": "Guntur",
+    "Aadhaar generated": 257,
+    "Enrolment Rejected": 23
+}, {
+    "State": "Andhra Pradesh",
+    "District": "Krishna",
+    "Aadhaar generated": 233,
+    "Enrolment Rejected": 27
+}, {
+    "State": "Andhra Pradesh",
+    "District": "Kurnool",
+    "Aadhaar generated": 373,
+    "Enrolment Rejected": 39
+}, {
+    "State": "Andhra Pradesh",
+    "District": "Nellore",
+    "Aadhaar generated": 203,
+    "Enrolment Rejected": 19
+}, {
+    "State": "Andhra Pradesh",
+    "District": "Prakasam",
+    "Aadhaar generated": 362,
+    "Enrolment Rejected": 38
+}, {
+    "State": "Andhra Pradesh",
+    "District": "Srikakulam",
+    "Aadhaar generated": 256,
+    "Enrolment Rejected": 18
+}, {
+    "State": "Andhra Pradesh",
+    "District": "Visakhapatnam",
+    "Aadhaar generated": 383,
+    "Enrolment Rejected": 36
+}, {
+    "State": "Andhra Pradesh",
+    "District": "Vizianagaram",
+    "Aadhaar generated": 208,
+    "Enrolment Rejected": 10
+}, {
+    "State": "Andhra Pradesh",
+    "District": "West Godavari",
+    "Aadhaar generated": 669,
+    "Enrolment Rejected": 51
+}, {
+    "State": "Arunachal Pradesh",
+    "District": "Changlang",
+    "Aadhaar generated": 4,
+    "Enrolment Rejected": 0
+}, {
+    "State": "Arunachal Pradesh",
+    "District": "Dibang Valley",
+    "Aadhaar generated": 2,
+    "Enrolment Rejected": 0
+}, {
+    "State": "Arunachal Pradesh",
+    "District": "East Kameng",
+    "Aadhaar generated": 2,
+    "Enrolment Rejected": 0
+}, {
+    "State": "Arunachal Pradesh",
+    "District": "East Siang",
+    "Aadhaar generated": 13,
+    "Enrolment Rejected": 4
+}, {
+    "State": "Arunachal Pradesh",
+    "District": "Kurung Kumey",
+    "Aadhaar generated": 1,
+    "Enrolment Rejected": 2
+}, {
+    "State": "Arunachal Pradesh",
+    "District": "Lohit",
+    "Aadhaar generated": 0,
+    "Enrolment Rejected": 1
+}, {
+    "State": "Arunachal Pradesh",
+    "District": "Longding",
+    "Aadhaar generated": 0,
+    "Enrolment Rejected": 3
+}, {
+    "State": "Arunachal Pradesh",
+    "District": "Lower Subansiri",
+    "Aadhaar generated": 2,
+    "Enrolment Rejected": 1
+}, {
+    "State": "Arunachal Pradesh",
+    "District": "Namsai",
+    "Aadhaar generated": 1,
+    "Enrolment Rejected": 0
+}, {
+    "State": "Arunachal Pradesh",
+    "District": "Papum Pare",
+    "Aadhaar generated": 7,
+    "Enrolment Rejected": 2
+}, {
+    "State": "Arunachal Pradesh",
+    "District": "Siang",
+    "Aadhaar generated": 39,
+    "Enrolment Rejected": 3
+}, {
+    "State": "Arunachal Pradesh",
+    "District": "Upper Siang",
+    "Aadhaar generated": 3,
+    "Enrolment Rejected": 1
+}, {
+    "State": "Arunachal Pradesh",
+    "District": "West Kameng",
+    "Aadhaar generated": 1,
+    "Enrolment Rejected": 0
+}, {
+    "State": "Arunachal Pradesh",
+    "District": "West Siang",
+    "Aadhaar generated": 10,
+    "Enrolment Rejected": 3
+}, {
+    "State": "Assam",
+    "District": "Baksa",
+    "Aadhaar generated": 10,
+    "Enrolment Rejected": 1
+}, {
+    "State": "Assam",
+    "District": "Barpeta",
+    "Aadhaar generated": 27,
+    "Enrolment Rejected": 1
+}, {
+    "State": "Assam",
+    "District": "Bongaigaon",
+    "Aadhaar generated": 5,
+    "Enrolment Rejected": 0
+}, {
+    "State": "Assam",
+    "District": "Cachar",
+    "Aadhaar generated": 35,
+    "Enrolment Rejected": 3
+}, {
+    "State": "Assam",
+    "District": "Chirang",
+    "Aadhaar generated": 6,
+    "Enrolment Rejected": 0
+}, {
+    "State": "Assam",
+    "District": "Darrang",
+    "Aadhaar generated": 3,
+    "Enrolment Rejected": 2
+}, {
+    "State": "Assam",
+    "District": "Dhemaji",
+    "Aadhaar generated": 48,
+    "Enrolment Rejected": 2
+}, {
+    "State": "Assam",
+    "District": "Dhubri",
+    "Aadhaar generated": 40,
+    "Enrolment Rejected": 1
+}, {
+    "State": "Assam",
+    "District": "Dibrugarh",
+    "Aadhaar generated": 7,
+    "Enrolment Rejected": 0
+}, {
+    "State": "Assam",
+    "District": "Goalpara",
+    "Aadhaar generated": 10,
+    "Enrolment Rejected": 0
+}, {
+    "State": "Assam",
+    "District": "Golaghat",
+    "Aadhaar generated": 110,
+    "Enrolment Rejected": 1
+}, {
+    "State": "Assam",
+    "District": "Hailakandi",
+    "Aadhaar generated": 33,
+    "Enrolment Rejected": 0
+}, {
+    "State": "Assam",
+    "District": "Hojai",
+    "Aadhaar generated": 36,
+    "Enrolment Rejected": 5
+}, {
+    "State": "Assam",
+    "District": "Jorhat",
+    "Aadhaar generated": 10,
+    "Enrolment Rejected": 1
+}, {
+    "State": "Assam",
+    "District": "Kamrup",
+    "Aadhaar generated": 13,
+    "Enrolment Rejected": 0
+}, {
+    "State": "Assam",
+    "District": "Kamrup Metro",
+    "Aadhaar generated": 15,
+    "Enrolment Rejected": 1
+}, {
+    "State": "Assam",
+    "District": "Karbi Anglong",
+    "Aadhaar generated": 35,
+    "Enrolment Rejected": 2
+}, {
+    "State": "Assam",
+    "District": "Karimganj",
+    "Aadhaar generated": 25,
+    "Enrolment Rejected": 3
+}, {
+    "State": "Assam",
+    "District": "Kokrajhar",
+    "Aadhaar generated": 12,
+    "Enrolment Rejected": 0
+}, {
+    "State": "Assam",
+    "District": "Lakhimpur",
+    "Aadhaar generated": 107,
+    "Enrolment Rejected": 3
+}, {
+    "State": "Assam",
+    "District": "Marigaon",
+    "Aadhaar generated": 83,
+    "Enrolment Rejected": 2
+}, {
+    "State": "Assam",
+    "District": "Nagaon",
+    "Aadhaar generated": 4950,
+    "Enrolment Rejected": 104
+}, {
+    "State": "Assam",
+    "District": "North Cachar Hills",
+    "Aadhaar generated": 1,
+    "Enrolment Rejected": 0
+}, {
+    "State": "Assam",
+    "District": "Sibsagar",
+    "Aadhaar generated": 11,
+    "Enrolment Rejected": 0
+}, {
+    "State": "Assam",
+    "District": "Sonitpur",
+    "Aadhaar generated": 158,
+    "Enrolment Rejected": 1
+}, {
+    "State": "Assam",
+    "District": "Tinsukia",
+    "Aadhaar generated": 4,
+    "Enrolment Rejected": 0
+}, {
+    "State": "Assam",
+    "District": "Udalguri",
+    "Aadhaar generated": 24,
+    "Enrolment Rejected": 0
+}, {
+    "State": "Bihar",
+    "District": "Araria",
+    "Aadhaar generated": 1715,
+    "Enrolment Rejected": 428
+}, {
+    "State": "Bihar",
+    "District": "Arwal",
+    "Aadhaar generated": 179,
+    "Enrolment Rejected": 33
+}, {
+    "State": "Bihar",
+    "District": "Aurangabad",
+    "Aadhaar generated": 1625,
+    "Enrolment Rejected": 331
+}, {
+    "State": "Bihar",
+    "District": "Banka",
+    "Aadhaar generated": 2216,
+    "Enrolment Rejected": 300
+}, {
+    "State": "Bihar",
+    "District": "Begusarai",
+    "Aadhaar generated": 1332,
+    "Enrolment Rejected": 408
+}, {
+    "State": "Bihar",
+    "District": "Bhagalpur",
+    "Aadhaar generated": 1109,
+    "Enrolment Rejected": 237
+}, {
+    "State": "Bihar",
+    "District": "Bhojpur",
+    "Aadhaar generated": 1107,
+    "Enrolment Rejected": 302
+}, {
+    "State": "Bihar",
+    "District": "Buxar",
+    "Aadhaar generated": 787,
+    "Enrolment Rejected": 200
+}, {
+    "State": "Bihar",
+    "District": "Darbhanga",
+    "Aadhaar generated": 2886,
+    "Enrolment Rejected": 668
+}, {
+    "State": "Bihar",
+    "District": "East Champaran",
+    "Aadhaar generated": 4221,
+    "Enrolment Rejected": 449
+}, {
+    "State": "Bihar",
+    "District": "Gaya",
+    "Aadhaar generated": 2378,
+    "Enrolment Rejected": 240
+}, {
+    "State": "Bihar",
+    "District": "Gopalganj",
+    "Aadhaar generated": 1358,
+    "Enrolment Rejected": 216
+}, {
+    "State": "Bihar",
+    "District": "Jamui",
+    "Aadhaar generated": 1450,
+    "Enrolment Rejected": 195
+}, {
+    "State": "Bihar",
+    "District": "Jehanabad",
+    "Aadhaar generated": 576,
+    "Enrolment Rejected": 108
+}, {
+    "State": "Bihar",
+    "District": "Kaimur (Bhabua)",
+    "Aadhaar generated": 1243,
+    "Enrolment Rejected": 245
+}, {
+    "State": "Bihar",
+    "District": "Katihar",
+    "Aadhaar generated": 1146,
+    "Enrolment Rejected": 386
+}, {
+    "State": "Bihar",
+    "District": "Khagaria",
+    "Aadhaar generated": 752,
+    "Enrolment Rejected": 108
+}, {
+    "State": "Bihar",
+    "District": "Kishanganj",
+    "Aadhaar generated": 624,
+    "Enrolment Rejected": 152
+}, {
+    "State": "Bihar",
+    "District": "Lakhisarai",
+    "Aadhaar generated": 598,
+    "Enrolment Rejected": 126
+}, {
+    "State": "Bihar",
+    "District": "Madhepura",
+    "Aadhaar generated": 1538,
+    "Enrolment Rejected": 329
+}, {
+    "State": "Bihar",
+    "District": "Madhubani",
+    "Aadhaar generated": 3304,
+    "Enrolment Rejected": 522
+}, {
+    "State": "Bihar",
+    "District": "Munger",
+    "Aadhaar generated": 384,
+    "Enrolment Rejected": 69
+}, {
+    "State": "Bihar",
+    "District": "Muzaffarpur",
+    "Aadhaar generated": 2015,
+    "Enrolment Rejected": 317
+}, {
+    "State": "Bihar",
+    "District": "Nalanda",
+    "Aadhaar generated": 1589,
+    "Enrolment Rejected": 342
+}, {
+    "State": "Bihar",
+    "District": "Nawada",
+    "Aadhaar generated": 1438,
+    "Enrolment Rejected": 254
+}, {
+    "State": "Bihar",
+    "District": "Patna",
+    "Aadhaar generated": 1764,
+    "Enrolment Rejected": 553
+}, {
+    "State": "Bihar",
+    "District": "Purnia",
+    "Aadhaar generated": 1391,
+    "Enrolment Rejected": 362
+}, {
+    "State": "Bihar",
+    "District": "Rohtas",
+    "Aadhaar generated": 1243,
+    "Enrolment Rejected": 247
+}, {
+    "State": "Bihar",
+    "District": "Saharsa",
+    "Aadhaar generated": 703,
+    "Enrolment Rejected": 201
+}, {
+    "State": "Bihar",
+    "District": "Samastipur",
+    "Aadhaar generated": 2578,
+    "Enrolment Rejected": 443
+}, {
+    "State": "Bihar",
+    "District": "Saran",
+    "Aadhaar generated": 1714,
+    "Enrolment Rejected": 272
+}, {
+    "State": "Bihar",
+    "District": "Sheikhpura",
+    "Aadhaar generated": 185,
+    "Enrolment Rejected": 108
+}, {
+    "State": "Bihar",
+    "District": "Sheohar",
+    "Aadhaar generated": 171,
+    "Enrolment Rejected": 31
+}, {
+    "State": "Bihar",
+    "District": "Sitamarhi",
+    "Aadhaar generated": 1962,
+    "Enrolment Rejected": 278
+}, {
+    "State": "Bihar",
+    "District": "Siwan",
+    "Aadhaar generated": 1357,
+    "Enrolment Rejected": 149
+}, {
+    "State": "Bihar",
+    "District": "Supaul",
+    "Aadhaar generated": 881,
+    "Enrolment Rejected": 266
+}, {
+    "State": "Bihar",
+    "District": "Vaishali",
+    "Aadhaar generated": 1365,
+    "Enrolment Rejected": 418
+}, {
+    "State": "Bihar",
+    "District": "West Champaran",
+    "Aadhaar generated": 3248,
+    "Enrolment Rejected": 520
+}, {
+    "State": "Chandigarh",
+    "District": "Chandigarh",
+    "Aadhaar generated": 143,
+    "Enrolment Rejected": 12
+}, {
+    "State": "Chhattisgarh",
+    "District": "Balod",
+    "Aadhaar generated": 45,
+    "Enrolment Rejected": 5
+}, {
+    "State": "Chhattisgarh",
+    "District": "Baloda Bazar",
+    "Aadhaar generated": 67,
+    "Enrolment Rejected": 19
+}, {
+    "State": "Chhattisgarh",
+    "District": "Balrampur",
+    "Aadhaar generated": 30,
+    "Enrolment Rejected": 10
+}, {
+    "State": "Chhattisgarh",
+    "District": "Bastar",
+    "Aadhaar generated": 86,
+    "Enrolment Rejected": 39
+}, {
+    "State": "Chhattisgarh",
+    "District": "Bemetara",
+    "Aadhaar generated": 65,
+    "Enrolment Rejected": 12
+}, {
+    "State": "Chhattisgarh",
+    "District": "Bijapur",
+    "Aadhaar generated": 8,
+    "Enrolment Rejected": 25
+}, {
+    "State": "Chhattisgarh",
+    "District": "Bilaspur",
+    "Aadhaar generated": 139,
+    "Enrolment Rejected": 31
+}, {
+    "State": "Chhattisgarh",
+    "District": "Dakshin Bastar Dantewada",
+    "Aadhaar generated": 19,
+    "Enrolment Rejected": 14
+}, {
+    "State": "Chhattisgarh",
+    "District": "Dantewada",
+    "Aadhaar generated": 11,
+    "Enrolment Rejected": 7
+}, {
+    "State": "Chhattisgarh",
+    "District": "Dhamtari",
+    "Aadhaar generated": 17,
+    "Enrolment Rejected": 9
+}, {
+    "State": "Chhattisgarh",
+    "District": "Durg",
+    "Aadhaar generated": 173,
+    "Enrolment Rejected": 44
+}, {
+    "State": "Chhattisgarh",
+    "District": "Gariyaband",
+    "Aadhaar generated": 47,
+    "Enrolment Rejected": 8
+}, {
+    "State": "Chhattisgarh",
+    "District": "Janjgir-champa",
+    "Aadhaar generated": 164,
+    "Enrolment Rejected": 47
+}, {
+    "State": "Chhattisgarh",
+    "District": "Jashpur",
+    "Aadhaar generated": 45,
+    "Enrolment Rejected": 15
+}, {
+    "State": "Chhattisgarh",
+    "District": "Kabeerdham",
+    "Aadhaar generated": 7,
+    "Enrolment Rejected": 6
+}, {
+    "State": "Chhattisgarh",
+    "District": "Kanker",
+    "Aadhaar generated": 43,
+    "Enrolment Rejected": 26
+}, {
+    "State": "Chhattisgarh",
+    "District": "Kawardha",
+    "Aadhaar generated": 31,
+    "Enrolment Rejected": 24
+}, {
+    "State": "Chhattisgarh",
+    "District": "Kondagaon",
+    "Aadhaar generated": 38,
+    "Enrolment Rejected": 31
+}, {
+    "State": "Chhattisgarh",
+    "District": "Korba",
+    "Aadhaar generated": 87,
+    "Enrolment Rejected": 44
+}, {
+    "State": "Chhattisgarh",
+    "District": "Koriya",
+    "Aadhaar generated": 29,
+    "Enrolment Rejected": 21
+}, {
+    "State": "Chhattisgarh",
+    "District": "Mahasamund",
+    "Aadhaar generated": 102,
+    "Enrolment Rejected": 28
+}, {
+    "State": "Chhattisgarh",
+    "District": "Mungeli",
+    "Aadhaar generated": 60,
+    "Enrolment Rejected": 26
+}, {
+    "State": "Chhattisgarh",
+    "District": "Narayanpur",
+    "Aadhaar generated": 7,
+    "Enrolment Rejected": 18
+}, {
+    "State": "Chhattisgarh",
+    "District": "Raigarh",
+    "Aadhaar generated": 96,
+    "Enrolment Rejected": 42
+}, {
+    "State": "Chhattisgarh",
+    "District": "Raipur",
+    "Aadhaar generated": 232,
+    "Enrolment Rejected": 53
+}, {
+    "State": "Chhattisgarh",
+    "District": "Rajnandgaon",
+    "Aadhaar generated": 73,
+    "Enrolment Rejected": 19
+}, {
+    "State": "Chhattisgarh",
+    "District": "Sukma",
+    "Aadhaar generated": 48,
+    "Enrolment Rejected": 16
+}, {
+    "State": "Chhattisgarh",
+    "District": "Surajpur",
+    "Aadhaar generated": 76,
+    "Enrolment Rejected": 25
+}, {
+    "State": "Chhattisgarh",
+    "District": "Surguja",
+    "Aadhaar generated": 132,
+    "Enrolment Rejected": 36
+}, {
+    "State": "Chhattisgarh",
+    "District": "Uttar Bastar Kanker",
+    "Aadhaar generated": 11,
+    "Enrolment Rejected": 8
+}, {
+    "State": "Dadra and Nagar Haveli",
+    "District": "Dadra and Nagar Haveli",
+    "Aadhaar generated": 197,
+    "Enrolment Rejected": 9
+}, {
+    "State": "Daman and Diu",
+    "District": "Daman",
+    "Aadhaar generated": 29,
+    "Enrolment Rejected": 14
+}, {
+    "State": "Daman and Diu",
+    "District": "Diu",
+    "Aadhaar generated": 6,
+    "Enrolment Rejected": 1
+}, {
+    "State": "Delhi",
+    "District": "Central Delhi",
+    "Aadhaar generated": 54,
+    "Enrolment Rejected": 11
+}, {
+    "State": "Delhi",
+    "District": "East Delhi",
+    "Aadhaar generated": 154,
+    "Enrolment Rejected": 52
+}, {
+    "State": "Delhi",
+    "District": "New Delhi",
+    "Aadhaar generated": 14,
+    "Enrolment Rejected": 3
+}, {
+    "State": "Delhi",
+    "District": "North Delhi",
+    "Aadhaar generated": 48,
+    "Enrolment Rejected": 20
+}, {
+    "State": "Delhi",
+    "District": "North East Delhi",
+    "Aadhaar generated": 213,
+    "Enrolment Rejected": 87
+}, {
+    "State": "Delhi",
+    "District": "North West Delhi",
+    "Aadhaar generated": 352,
+    "Enrolment Rejected": 106
+}, {
+    "State": "Delhi",
+    "District": "South Delhi",
+    "Aadhaar generated": 235,
+    "Enrolment Rejected": 56
+}, {
+    "State": "Delhi",
+    "District": "South West Delhi",
+    "Aadhaar generated": 211,
+    "Enrolment Rejected": 37
+}, {
+    "State": "Delhi",
+    "District": "West Delhi",
+    "Aadhaar generated": 240,
+    "Enrolment Rejected": 66
+}, {
+    "State": "Goa",
+    "District": "North Goa",
+    "Aadhaar generated": 72,
+    "Enrolment Rejected": 9
+}, {
+    "State": "Goa",
+    "District": "South Goa",
+    "Aadhaar generated": 38,
+    "Enrolment Rejected": 4
+}, {
+    "State": "Gujarat",
+    "District": "Ahmedabad",
+    "Aadhaar generated": 4312,
+    "Enrolment Rejected": 874
+}, {
+    "State": "Gujarat",
+    "District": "Amreli",
+    "Aadhaar generated": 1024,
+    "Enrolment Rejected": 153
+}, {
+    "State": "Gujarat",
+    "District": "Anand",
+    "Aadhaar generated": 240,
+    "Enrolment Rejected": 223
+}, {
+    "State": "Gujarat",
+    "District": "Arvalli",
+    "Aadhaar generated": 713,
+    "Enrolment Rejected": 200
+}, {
+    "State": "Gujarat",
+    "District": "Banaskantha",
+    "Aadhaar generated": 2168,
+    "Enrolment Rejected": 331
+}, {
+    "State": "Gujarat",
+    "District": "Bharuch",
+    "Aadhaar generated": 978,
+    "Enrolment Rejected": 452
+}, {
+    "State": "Gujarat",
+    "District": "Bhavnagar",
+    "Aadhaar generated": 1475,
+    "Enrolment Rejected": 503
+}, {
+    "State": "Gujarat",
+    "District": "Botad",
+    "Aadhaar generated": 240,
+    "Enrolment Rejected": 134
+}, {
+    "State": "Gujarat",
+    "District": "Chhotaudepur",
+    "Aadhaar generated": 257,
+    "Enrolment Rejected": 157
+}, {
+    "State": "Gujarat",
+    "District": "Dahod",
+    "Aadhaar generated": 2661,
+    "Enrolment Rejected": 440
+}, {
+    "State": "Gujarat",
+    "District": "Devbhumi Dwarka",
+    "Aadhaar generated": 337,
+    "Enrolment Rejected": 87
+}, {
+    "State": "Gujarat",
+    "District": "Gandhinagar",
+    "Aadhaar generated": 634,
+    "Enrolment Rejected": 142
+}, {
+    "State": "Gujarat",
+    "District": "Gir Somnath",
+    "Aadhaar generated": 292,
+    "Enrolment Rejected": 318
+}, {
+    "State": "Gujarat",
+    "District": "Jamnagar",
+    "Aadhaar generated": 31,
+    "Enrolment Rejected": 84
+}, {
+    "State": "Gujarat",
+    "District": "Junagadh",
+    "Aadhaar generated": 573,
+    "Enrolment Rejected": 178
+}, {
+    "State": "Gujarat",
+    "District": "Kachchh",
+    "Aadhaar generated": 1649,
+    "Enrolment Rejected": 242
+}, {
+    "State": "Gujarat",
+    "District": "Kheda",
+    "Aadhaar generated": 774,
+    "Enrolment Rejected": 263
+}, {
+    "State": "Gujarat",
+    "District": "Mahesana",
+    "Aadhaar generated": 823,
+    "Enrolment Rejected": 279
+}, {
+    "State": "Gujarat",
+    "District": "Mahisagar",
+    "Aadhaar generated": 923,
+    "Enrolment Rejected": 221
+}, {
+    "State": "Gujarat",
+    "District": "Morbi",
+    "Aadhaar generated": 186,
+    "Enrolment Rejected": 48
+}, {
+    "State": "Gujarat",
+    "District": "Narmada",
+    "Aadhaar generated": 192,
+    "Enrolment Rejected": 71
+}, {
+    "State": "Gujarat",
+    "District": "Navsari",
+    "Aadhaar generated": 485,
+    "Enrolment Rejected": 42
+}, {
+    "State": "Gujarat",
+    "District": "Panchmahals",
+    "Aadhaar generated": 644,
+    "Enrolment Rejected": 165
+}, {
+    "State": "Gujarat",
+    "District": "Patan",
+    "Aadhaar generated": 718,
+    "Enrolment Rejected": 142
+}, {
+    "State": "Gujarat",
+    "District": "Porbandar",
+    "Aadhaar generated": 52,
+    "Enrolment Rejected": 36
+}, {
+    "State": "Gujarat",
+    "District": "Rajkot",
+    "Aadhaar generated": 301,
+    "Enrolment Rejected": 231
+}, {
+    "State": "Gujarat",
+    "District": "Sabarkantha",
+    "Aadhaar generated": 849,
+    "Enrolment Rejected": 254
+}, {
+    "State": "Gujarat",
+    "District": "Surat",
+    "Aadhaar generated": 4394,
+    "Enrolment Rejected": 804
+}, {
+    "State": "Gujarat",
+    "District": "Surendra Nagar",
+    "Aadhaar generated": 214,
+    "Enrolment Rejected": 129
+}, {
+    "State": "Gujarat",
+    "District": "Tapi",
+    "Aadhaar generated": 206,
+    "Enrolment Rejected": 81
+}, {
+    "State": "Gujarat",
+    "District": "The Dangs",
+    "Aadhaar generated": 177,
+    "Enrolment Rejected": 13
+}, {
+    "State": "Gujarat",
+    "District": "Vadodara",
+    "Aadhaar generated": 1338,
+    "Enrolment Rejected": 372
+}, {
+    "State": "Gujarat",
+    "District": "Valsad",
+    "Aadhaar generated": 1090,
+    "Enrolment Rejected": 130
+}, {
+    "State": "Haryana",
+    "District": "Ambala",
+    "Aadhaar generated": 47,
+    "Enrolment Rejected": 26
+}, {
+    "State": "Haryana",
+    "District": "Bhiwani",
+    "Aadhaar generated": 107,
+    "Enrolment Rejected": 30
+}, {
+    "State": "Haryana",
+    "District": "Faridabad",
+    "Aadhaar generated": 161,
+    "Enrolment Rejected": 48
+}, {
+    "State": "Haryana",
+    "District": "Fatehabad",
+    "Aadhaar generated": 21,
+    "Enrolment Rejected": 9
+}, {
+    "State": "Haryana",
+    "District": "Gurgaon",
+    "Aadhaar generated": 133,
+    "Enrolment Rejected": 38
+}, {
+    "State": "Haryana",
+    "District": "Hisar",
+    "Aadhaar generated": 115,
+    "Enrolment Rejected": 26
+}, {
+    "State": "Haryana",
+    "District": "Jhajjar",
+    "Aadhaar generated": 44,
+    "Enrolment Rejected": 16
+}, {
+    "State": "Haryana",
+    "District": "Jind",
+    "Aadhaar generated": 66,
+    "Enrolment Rejected": 29
+}, {
+    "State": "Haryana",
+    "District": "Kaithal",
+    "Aadhaar generated": 45,
+    "Enrolment Rejected": 12
+}, {
+    "State": "Haryana",
+    "District": "Karnal",
+    "Aadhaar generated": 197,
+    "Enrolment Rejected": 27
+}, {
+    "State": "Haryana",
+    "District": "Kurukshetra",
+    "Aadhaar generated": 50,
+    "Enrolment Rejected": 7
+}, {
+    "State": "Haryana",
+    "District": "Mahendragarh",
+    "Aadhaar generated": 61,
+    "Enrolment Rejected": 13
+}, {
+    "State": "Haryana",
+    "District": "Mewat",
+    "Aadhaar generated": 158,
+    "Enrolment Rejected": 52
+}, {
+    "State": "Haryana",
+    "District": "Palwal",
+    "Aadhaar generated": 77,
+    "Enrolment Rejected": 32
+}, {
+    "State": "Haryana",
+    "District": "Panchkula",
+    "Aadhaar generated": 41,
+    "Enrolment Rejected": 14
+}, {
+    "State": "Haryana",
+    "District": "Panipat",
+    "Aadhaar generated": 168,
+    "Enrolment Rejected": 35
+}, {
+    "State": "Haryana",
+    "District": "Rewari",
+    "Aadhaar generated": 52,
+    "Enrolment Rejected": 15
+}, {
+    "State": "Haryana",
+    "District": "Rohtak",
+    "Aadhaar generated": 79,
+    "Enrolment Rejected": 24
+}, {
+    "State": "Haryana",
+    "District": "Sirsa",
+    "Aadhaar generated": 103,
+    "Enrolment Rejected": 32
+}, {
+    "State": "Haryana",
+    "District": "Sonipat",
+    "Aadhaar generated": 83,
+    "Enrolment Rejected": 27
+}, {
+    "State": "Haryana",
+    "District": "Yamuna Nagar",
+    "Aadhaar generated": 105,
+    "Enrolment Rejected": 22
+}, {
+    "State": "Himachal Pradesh",
+    "District": "Bilaspur",
+    "Aadhaar generated": 12,
+    "Enrolment Rejected": 1
+}, {
+    "State": "Himachal Pradesh",
+    "District": "Chamba",
+    "Aadhaar generated": 30,
+    "Enrolment Rejected": 8
+}, {
+    "State": "Himachal Pradesh",
+    "District": "Hamirpur",
+    "Aadhaar generated": 14,
+    "Enrolment Rejected": 5
+}, {
+    "State": "Himachal Pradesh",
+    "District": "Kangra",
+    "Aadhaar generated": 174,
+    "Enrolment Rejected": 21
+}, {
+    "State": "Himachal Pradesh",
+    "District": "Kinnaur",
+    "Aadhaar generated": 9,
+    "Enrolment Rejected": 1
+}, {
+    "State": "Himachal Pradesh",
+    "District": "Kullu",
+    "Aadhaar generated": 7,
+    "Enrolment Rejected": 5
+}, {
+    "State": "Himachal Pradesh",
+    "District": "Lahul and Spiti",
+    "Aadhaar generated": 0,
+    "Enrolment Rejected": 2
+}, {
+    "State": "Himachal Pradesh",
+    "District": "Mandi",
+    "Aadhaar generated": 112,
+    "Enrolment Rejected": 9
+}, {
+    "State": "Himachal Pradesh",
+    "District": "Shimla",
+    "Aadhaar generated": 42,
+    "Enrolment Rejected": 9
+}, {
+    "State": "Himachal Pradesh",
+    "District": "Sirmaur",
+    "Aadhaar generated": 19,
+    "Enrolment Rejected": 8
+}, {
+    "State": "Himachal Pradesh",
+    "District": "Solan",
+    "Aadhaar generated": 17,
+    "Enrolment Rejected": 7
+}, {
+    "State": "Himachal Pradesh",
+    "District": "Una",
+    "Aadhaar generated": 20,
+    "Enrolment Rejected": 1
+}, {
+    "State": "Jammu and Kashmir",
+    "District": "Anantnag",
+    "Aadhaar generated": 1,
+    "Enrolment Rejected": 0
+}, {
+    "State": "Jammu and Kashmir",
+    "District": "Baramula",
+    "Aadhaar generated": 1,
+    "Enrolment Rejected": 0
+}, {
+    "State": "Jammu and Kashmir",
+    "District": "Budgam",
+    "Aadhaar generated": 4,
+    "Enrolment Rejected": 1
+}, {
+    "State": "Jammu and Kashmir",
+    "District": "Doda",
+    "Aadhaar generated": 70,
+    "Enrolment Rejected": 42
+}, {
+    "State": "Jammu and Kashmir",
+    "District": "Jammu",
+    "Aadhaar generated": 713,
+    "Enrolment Rejected": 77
+}, {
+    "State": "Jammu and Kashmir",
+    "District": "Kargil",
+    "Aadhaar generated": 3,
+    "Enrolment Rejected": 0
+}, {
+    "State": "Jammu and Kashmir",
+    "District": "Kathua",
+    "Aadhaar generated": 110,
+    "Enrolment Rejected": 64
+}, {
+    "State": "Jammu and Kashmir",
+    "District": "Kishtwar",
+    "Aadhaar generated": 47,
+    "Enrolment Rejected": 27
+}, {
+    "State": "Jammu and Kashmir",
+    "District": "Punch",
+    "Aadhaar generated": 46,
+    "Enrolment Rejected": 12
+}, {
+    "State": "Jammu and Kashmir",
+    "District": "Rajouri",
+    "Aadhaar generated": 57,
+    "Enrolment Rejected": 80
+}, {
+    "State": "Jammu and Kashmir",
+    "District": "Ramban",
+    "Aadhaar generated": 2,
+    "Enrolment Rejected": 0
+}, {
+    "State": "Jammu and Kashmir",
+    "District": "Reasi",
+    "Aadhaar generated": 45,
+    "Enrolment Rejected": 61
+}, {
+    "State": "Jammu and Kashmir",
+    "District": "Samba",
+    "Aadhaar generated": 64,
+    "Enrolment Rejected": 5
+}, {
+    "State": "Jammu and Kashmir",
+    "District": "Srinagar",
+    "Aadhaar generated": 3,
+    "Enrolment Rejected": 1
+}, {
+    "State": "Jammu and Kashmir",
+    "District": "Udhampur",
+    "Aadhaar generated": 157,
+    "Enrolment Rejected": 105
+}, {
+    "State": "Jharkhand",
+    "District": "Bokaro",
+    "Aadhaar generated": 932,
+    "Enrolment Rejected": 104
+}, {
+    "State": "Jharkhand",
+    "District": "Chatra",
+    "Aadhaar generated": 781,
+    "Enrolment Rejected": 74
+}, {
+    "State": "Jharkhand",
+    "District": "Deoghar",
+    "Aadhaar generated": 994,
+    "Enrolment Rejected": 102
+}, {
+    "State": "Jharkhand",
+    "District": "Dhanbad",
+    "Aadhaar generated": 1678,
+    "Enrolment Rejected": 197
+}, {
+    "State": "Jharkhand",
+    "District": "Dumka",
+    "Aadhaar generated": 1041,
+    "Enrolment Rejected": 138
+}, {
+    "State": "Jharkhand",
+    "District": "East Singhbhum",
+    "Aadhaar generated": 1146,
+    "Enrolment Rejected": 101
+}, {
+    "State": "Jharkhand",
+    "District": "Garhwa",
+    "Aadhaar generated": 767,
+    "Enrolment Rejected": 88
+}, {
+    "State": "Jharkhand",
+    "District": "Giridih",
+    "Aadhaar generated": 1087,
+    "Enrolment Rejected": 187
+}, {
+    "State": "Jharkhand",
+    "District": "Godda",
+    "Aadhaar generated": 1342,
+    "Enrolment Rejected": 161
+}, {
+    "State": "Jharkhand",
+    "District": "Gumla",
+    "Aadhaar generated": 888,
+    "Enrolment Rejected": 87
+}, {
+    "State": "Jharkhand",
+    "District": "Hazaribagh",
+    "Aadhaar generated": 818,
+    "Enrolment Rejected": 84
+}, {
+    "State": "Jharkhand",
+    "District": "Jamtara",
+    "Aadhaar generated": 159,
+    "Enrolment Rejected": 27
+}, {
+    "State": "Jharkhand",
+    "District": "Khunti",
+    "Aadhaar generated": 298,
+    "Enrolment Rejected": 50
+}, {
+    "State": "Jharkhand",
+    "District": "Koderma",
+    "Aadhaar generated": 216,
+    "Enrolment Rejected": 33
+}, {
+    "State": "Jharkhand",
+    "District": "Latehar",
+    "Aadhaar generated": 745,
+    "Enrolment Rejected": 94
+}, {
+    "State": "Jharkhand",
+    "District": "Lohardaga",
+    "Aadhaar generated": 204,
+    "Enrolment Rejected": 26
+}, {
+    "State": "Jharkhand",
+    "District": "Pakur",
+    "Aadhaar generated": 685,
+    "Enrolment Rejected": 91
+}, {
+    "State": "Jharkhand",
+    "District": "Palamu",
+    "Aadhaar generated": 892,
+    "Enrolment Rejected": 174
+}, {
+    "State": "Jharkhand",
+    "District": "Ramgarh",
+    "Aadhaar generated": 226,
+    "Enrolment Rejected": 10
+}, {
+    "State": "Jharkhand",
+    "District": "Ranchi",
+    "Aadhaar generated": 1317,
+    "Enrolment Rejected": 137
+}, {
+    "State": "Jharkhand",
+    "District": "Sahebganj",
+    "Aadhaar generated": 942,
+    "Enrolment Rejected": 119
+}, {
+    "State": "Jharkhand",
+    "District": "Seraikela-Kharsawan",
+    "Aadhaar generated": 790,
+    "Enrolment Rejected": 98
+}, {
+    "State": "Jharkhand",
+    "District": "Simdega",
+    "Aadhaar generated": 402,
+    "Enrolment Rejected": 52
+}, {
+    "State": "Jharkhand",
+    "District": "West Singhbhum",
+    "Aadhaar generated": 885,
+    "Enrolment Rejected": 206
+}, {
+    "State": "Karnataka",
+    "District": "Bagalkot",
+    "Aadhaar generated": 398,
+    "Enrolment Rejected": 113
+}, {
+    "State": "Karnataka",
+    "District": "Ballari",
+    "Aadhaar generated": 484,
+    "Enrolment Rejected": 98
+}, {
+    "State": "Karnataka",
+    "District": "Bangalore Rural",
+    "Aadhaar generated": 305,
+    "Enrolment Rejected": 65
+}, {
+    "State": "Karnataka",
+    "District": "Belagavi",
+    "Aadhaar generated": 1104,
+    "Enrolment Rejected": 303
+}, {
+    "State": "Karnataka",
+    "District": "Bengaluru",
+    "Aadhaar generated": 2682,
+    "Enrolment Rejected": 308
+}, {
+    "State": "Karnataka",
+    "District": "Bidar",
+    "Aadhaar generated": 497,
+    "Enrolment Rejected": 109
+}, {
+    "State": "Karnataka",
+    "District": "Chamrajanagar",
+    "Aadhaar generated": 528,
+    "Enrolment Rejected": 44
+}, {
+    "State": "Karnataka",
+    "District": "Chikkaballapur",
+    "Aadhaar generated": 524,
+    "Enrolment Rejected": 278
+}, {
+    "State": "Karnataka",
+    "District": "Chikkamagaluru",
+    "Aadhaar generated": 476,
+    "Enrolment Rejected": 37
+}, {
+    "State": "Karnataka",
+    "District": "Chitradurga",
+    "Aadhaar generated": 341,
+    "Enrolment Rejected": 140
+}, {
+    "State": "Karnataka",
+    "District": "Dakshina Kannada",
+    "Aadhaar generated": 879,
+    "Enrolment Rejected": 41
+}, {
+    "State": "Karnataka",
+    "District": "Davangere",
+    "Aadhaar generated": 681,
+    "Enrolment Rejected": 145
+}, {
+    "State": "Karnataka",
+    "District": "Dharwad",
+    "Aadhaar generated": 334,
+    "Enrolment Rejected": 79
+}, {
+    "State": "Karnataka",
+    "District": "Gadag",
+    "Aadhaar generated": 582,
+    "Enrolment Rejected": 76
+}, {
+    "State": "Karnataka",
+    "District": "Hassan",
+    "Aadhaar generated": 389,
+    "Enrolment Rejected": 60
+}, {
+    "State": "Karnataka",
+    "District": "Haveri",
+    "Aadhaar generated": 554,
+    "Enrolment Rejected": 132
+}, {
+    "State": "Karnataka",
+    "District": "Kalaburagi",
+    "Aadhaar generated": 1473,
+    "Enrolment Rejected": 281
+}, {
+    "State": "Karnataka",
+    "District": "Kodagu",
+    "Aadhaar generated": 163,
+    "Enrolment Rejected": 95
+}, {
+    "State": "Karnataka",
+    "District": "Kolar",
+    "Aadhaar generated": 480,
+    "Enrolment Rejected": 80
+}, {
+    "State": "Karnataka",
+    "District": "Koppal",
+    "Aadhaar generated": 599,
+    "Enrolment Rejected": 56
+}, {
+    "State": "Karnataka",
+    "District": "Mandya",
+    "Aadhaar generated": 420,
+    "Enrolment Rejected": 74
+}, {
+    "State": "Karnataka",
+    "District": "Mysuru",
+    "Aadhaar generated": 366,
+    "Enrolment Rejected": 73
+}, {
+    "State": "Karnataka",
+    "District": "Raichur",
+    "Aadhaar generated": 841,
+    "Enrolment Rejected": 124
+}, {
+    "State": "Karnataka",
+    "District": "Ramanagar",
+    "Aadhaar generated": 406,
+    "Enrolment Rejected": 83
+}, {
+    "State": "Karnataka",
+    "District": "Shivamogga",
+    "Aadhaar generated": 693,
+    "Enrolment Rejected": 125
+}, {
+    "State": "Karnataka",
+    "District": "Tumakuru",
+    "Aadhaar generated": 471,
+    "Enrolment Rejected": 99
+}, {
+    "State": "Karnataka",
+    "District": "Udupi",
+    "Aadhaar generated": 210,
+    "Enrolment Rejected": 25
+}, {
+    "State": "Karnataka",
+    "District": "Uttara Kannada",
+    "Aadhaar generated": 563,
+    "Enrolment Rejected": 36
+}, {
+    "State": "Karnataka",
+    "District": "Vijayapura",
+    "Aadhaar generated": 1252,
+    "Enrolment Rejected": 175
+}, {
+    "State": "Karnataka",
+    "District": "Yadgir",
+    "Aadhaar generated": 214,
+    "Enrolment Rejected": 72
+}, {
+    "State": "Kerala",
+    "District": "Alappuzha",
+    "Aadhaar generated": 310,
+    "Enrolment Rejected": 10
+}, {
+    "State": "Kerala",
+    "District": "Ernakulam",
+    "Aadhaar generated": 112,
+    "Enrolment Rejected": 14
+}, {
+    "State": "Kerala",
+    "District": "Idukki",
+    "Aadhaar generated": 42,
+    "Enrolment Rejected": 6
+}, {
+    "State": "Kerala",
+    "District": "Kannur",
+    "Aadhaar generated": 633,
+    "Enrolment Rejected": 19
+}, {
+    "State": "Kerala",
+    "District": "Kasaragod",
+    "Aadhaar generated": 261,
+    "Enrolment Rejected": 16
+}, {
+    "State": "Kerala",
+    "District": "Kollam",
+    "Aadhaar generated": 227,
+    "Enrolment Rejected": 29
+}, {
+    "State": "Kerala",
+    "District": "Kottayam",
+    "Aadhaar generated": 121,
+    "Enrolment Rejected": 6
+}, {
+    "State": "Kerala",
+    "District": "Kozhikode",
+    "Aadhaar generated": 480,
+    "Enrolment Rejected": 20
+}, {
+    "State": "Kerala",
+    "District": "Malappuram",
+    "Aadhaar generated": 460,
+    "Enrolment Rejected": 48
+}, {
+    "State": "Kerala",
+    "District": "Palakkad",
+    "Aadhaar generated": 422,
+    "Enrolment Rejected": 60
+}, {
+    "State": "Kerala",
+    "District": "Pathanamthitta",
+    "Aadhaar generated": 145,
+    "Enrolment Rejected": 7
+}, {
+    "State": "Kerala",
+    "District": "Thiruvananthapuram",
+    "Aadhaar generated": 236,
+    "Enrolment Rejected": 27
+}, {
+    "State": "Kerala",
+    "District": "Thrissur",
+    "Aadhaar generated": 369,
+    "Enrolment Rejected": 23
+}, {
+    "State": "Kerala",
+    "District": "Wayanad",
+    "Aadhaar generated": 7,
+    "Enrolment Rejected": 2
+}, {
+    "State": "Lakshadweep",
+    "District": "Lakshadweep",
+    "Aadhaar generated": 3,
+    "Enrolment Rejected": 2
+}, {
+    "State": "Madhya Pradesh",
+    "District": "Alirajpur",
+    "Aadhaar generated": 206,
+    "Enrolment Rejected": 23
+}, {
+    "State": "Madhya Pradesh",
+    "District": "Anuppur",
+    "Aadhaar generated": 48,
+    "Enrolment Rejected": 8
+}, {
+    "State": "Madhya Pradesh",
+    "District": "Ashok Nagar",
+    "Aadhaar generated": 127,
+    "Enrolment Rejected": 30
+}, {
+    "State": "Madhya Pradesh",
+    "District": "Balaghat",
+    "Aadhaar generated": 124,
+    "Enrolment Rejected": 49
+}, {
+    "State": "Madhya Pradesh",
+    "District": "Barwani",
+    "Aadhaar generated": 69,
+    "Enrolment Rejected": 34
+}, {
+    "State": "Madhya Pradesh",
+    "District": "Betul",
+    "Aadhaar generated": 158,
+    "Enrolment Rejected": 56
+}, {
+    "State": "Madhya Pradesh",
+    "District": "Bhind",
+    "Aadhaar generated": 394,
+    "Enrolment Rejected": 68
+}, {
+    "State": "Madhya Pradesh",
+    "District": "Bhopal",
+    "Aadhaar generated": 141,
+    "Enrolment Rejected": 57
+}, {
+    "State": "Madhya Pradesh",
+    "District": "Burhanpur",
+    "Aadhaar generated": 55,
+    "Enrolment Rejected": 11
+}, {
+    "State": "Madhya Pradesh",
+    "District": "Chhatarpur",
+    "Aadhaar generated": 323,
+    "Enrolment Rejected": 51
+}, {
+    "State": "Madhya Pradesh",
+    "District": "Chhindwara",
+    "Aadhaar generated": 170,
+    "Enrolment Rejected": 47
+}, {
+    "State": "Madhya Pradesh",
+    "District": "Damoh",
+    "Aadhaar generated": 142,
+    "Enrolment Rejected": 15
+}, {
+    "State": "Madhya Pradesh",
+    "District": "Datia",
+    "Aadhaar generated": 1121,
+    "Enrolment Rejected": 85
+}, {
+    "State": "Madhya Pradesh",
+    "District": "Dewas",
+    "Aadhaar generated": 88,
+    "Enrolment Rejected": 28
+}, {
+    "State": "Madhya Pradesh",
+    "District": "Dhar",
+    "Aadhaar generated": 400,
+    "Enrolment Rejected": 64
+}, {
+    "State": "Madhya Pradesh",
+    "District": "Dindori",
+    "Aadhaar generated": 26,
+    "Enrolment Rejected": 11
+}, {
+    "State": "Madhya Pradesh",
+    "District": "Guna",
+    "Aadhaar generated": 243,
+    "Enrolment Rejected": 38
+}, {
+    "State": "Madhya Pradesh",
+    "District": "Gwalior",
+    "Aadhaar generated": 296,
+    "Enrolment Rejected": 103
+}, {
+    "State": "Madhya Pradesh",
+    "District": "Harda",
+    "Aadhaar generated": 9,
+    "Enrolment Rejected": 7
+}, {
+    "State": "Madhya Pradesh",
+    "District": "Hoshangabad",
+    "Aadhaar generated": 29,
+    "Enrolment Rejected": 12
+}, {
+    "State": "Madhya Pradesh",
+    "District": "Indore",
+    "Aadhaar generated": 483,
+    "Enrolment Rejected": 128
+}, {
+    "State": "Madhya Pradesh",
+    "District": "Jabalpur",
+    "Aadhaar generated": 181,
+    "Enrolment Rejected": 46
+}, {
+    "State": "Madhya Pradesh",
+    "District": "Jhabua",
+    "Aadhaar generated": 591,
+    "Enrolment Rejected": 41
+}, {
+    "State": "Madhya Pradesh",
+    "District": "Katni",
+    "Aadhaar generated": 118,
+    "Enrolment Rejected": 29
+}, {
+    "State": "Madhya Pradesh",
+    "District": "Khandwa",
+    "Aadhaar generated": 63,
+    "Enrolment Rejected": 17
+}, {
+    "State": "Madhya Pradesh",
+    "District": "Khargone",
+    "Aadhaar generated": 334,
+    "Enrolment Rejected": 98
+}, {
+    "State": "Madhya Pradesh",
+    "District": "Mandla",
+    "Aadhaar generated": 76,
+    "Enrolment Rejected": 18
+}, {
+    "State": "Madhya Pradesh",
+    "District": "Mandsaur",
+    "Aadhaar generated": 119,
+    "Enrolment Rejected": 42
+}, {
+    "State": "Madhya Pradesh",
+    "District": "Morena",
+    "Aadhaar generated": 370,
+    "Enrolment Rejected": 73
+}, {
+    "State": "Madhya Pradesh",
+    "District": "Narsinghpur",
+    "Aadhaar generated": 88,
+    "Enrolment Rejected": 32
+}, {
+    "State": "Madhya Pradesh",
+    "District": "Neemuch",
+    "Aadhaar generated": 137,
+    "Enrolment Rejected": 31
+}, {
+    "State": "Madhya Pradesh",
+    "District": "Panna",
+    "Aadhaar generated": 282,
+    "Enrolment Rejected": 30
+}, {
+    "State": "Madhya Pradesh",
+    "District": "Raisen",
+    "Aadhaar generated": 172,
+    "Enrolment Rejected": 32
+}, {
+    "State": "Madhya Pradesh",
+    "District": "Rajgarh",
+    "Aadhaar generated": 201,
+    "Enrolment Rejected": 28
+}, {
+    "State": "Madhya Pradesh",
+    "District": "Ratlam",
+    "Aadhaar generated": 170,
+    "Enrolment Rejected": 26
+}, {
+    "State": "Madhya Pradesh",
+    "District": "Rewa",
+    "Aadhaar generated": 279,
+    "Enrolment Rejected": 53
+}, {
+    "State": "Madhya Pradesh",
+    "District": "Sagar",
+    "Aadhaar generated": 309,
+    "Enrolment Rejected": 75
+}, {
+    "State": "Madhya Pradesh",
+    "District": "Satna",
+    "Aadhaar generated": 296,
+    "Enrolment Rejected": 36
+}, {
+    "State": "Madhya Pradesh",
+    "District": "Sehore",
+    "Aadhaar generated": 264,
+    "Enrolment Rejected": 37
+}, {
+    "State": "Madhya Pradesh",
+    "District": "Seoni",
+    "Aadhaar generated": 109,
+    "Enrolment Rejected": 18
+}, {
+    "State": "Madhya Pradesh",
+    "District": "Shahdol",
+    "Aadhaar generated": 69,
+    "Enrolment Rejected": 15
+}, {
+    "State": "Madhya Pradesh",
+    "District": "Shajapur",
+    "Aadhaar generated": 68,
+    "Enrolment Rejected": 31
+}, {
+    "State": "Madhya Pradesh",
+    "District": "Sheopur",
+    "Aadhaar generated": 102,
+    "Enrolment Rejected": 31
+}, {
+    "State": "Madhya Pradesh",
+    "District": "Shivpuri",
+    "Aadhaar generated": 328,
+    "Enrolment Rejected": 52
+}, {
+    "State": "Madhya Pradesh",
+    "District": "Sidhi",
+    "Aadhaar generated": 160,
+    "Enrolment Rejected": 31
+}, {
+    "State": "Madhya Pradesh",
+    "District": "Singrauli",
+    "Aadhaar generated": 129,
+    "Enrolment Rejected": 43
+}, {
+    "State": "Madhya Pradesh",
+    "District": "Tikamgarh",
+    "Aadhaar generated": 292,
+    "Enrolment Rejected": 57
+}, {
+    "State": "Madhya Pradesh",
+    "District": "Ujjain",
+    "Aadhaar generated": 252,
+    "Enrolment Rejected": 65
+}, {
+    "State": "Madhya Pradesh",
+    "District": "Umaria",
+    "Aadhaar generated": 58,
+    "Enrolment Rejected": 14
+}, {
+    "State": "Madhya Pradesh",
+    "District": "Vidisha",
+    "Aadhaar generated": 272,
+    "Enrolment Rejected": 62
+}, {
+    "State": "Maharashtra",
+    "District": "Ahmadnagar",
+    "Aadhaar generated": 1531,
+    "Enrolment Rejected": 152
+}, {
+    "State": "Maharashtra",
+    "District": "Akola",
+    "Aadhaar generated": 813,
+    "Enrolment Rejected": 103
+}, {
+    "State": "Maharashtra",
+    "District": "Amravati",
+    "Aadhaar generated": 1418,
+    "Enrolment Rejected": 102
+}, {
+    "State": "Maharashtra",
+    "District": "Aurangabad",
+    "Aadhaar generated": 1279,
+    "Enrolment Rejected": 126
+}, {
+    "State": "Maharashtra",
+    "District": "Beed",
+    "Aadhaar generated": 823,
+    "Enrolment Rejected": 99
+}, {
+    "State": "Maharashtra",
+    "District": "Bhandara",
+    "Aadhaar generated": 203,
+    "Enrolment Rejected": 48
+}, {
+    "State": "Maharashtra",
+    "District": "Buldhana",
+    "Aadhaar generated": 1040,
+    "Enrolment Rejected": 149
+}, {
+    "State": "Maharashtra",
+    "District": "Chandrapur",
+    "Aadhaar generated": 404,
+    "Enrolment Rejected": 35
+}, {
+    "State": "Maharashtra",
+    "District": "Dhule",
+    "Aadhaar generated": 765,
+    "Enrolment Rejected": 93
+}, {
+    "State": "Maharashtra",
+    "District": "Gadchiroli",
+    "Aadhaar generated": 375,
+    "Enrolment Rejected": 29
+}, {
+    "State": "Maharashtra",
+    "District": "Gondiya",
+    "Aadhaar generated": 281,
+    "Enrolment Rejected": 74
+}, {
+    "State": "Maharashtra",
+    "District": "Hingoli",
+    "Aadhaar generated": 318,
+    "Enrolment Rejected": 68
+}, {
+    "State": "Maharashtra",
+    "District": "Jalgaon",
+    "Aadhaar generated": 2714,
+    "Enrolment Rejected": 246
+}, {
+    "State": "Maharashtra",
+    "District": "Jalna",
+    "Aadhaar generated": 1666,
+    "Enrolment Rejected": 173
+}, {
+    "State": "Maharashtra",
+    "District": "Kolhapur",
+    "Aadhaar generated": 476,
+    "Enrolment Rejected": 80
+}, {
+    "State": "Maharashtra",
+    "District": "Latur",
+    "Aadhaar generated": 667,
+    "Enrolment Rejected": 92
+}, {
+    "State": "Maharashtra",
+    "District": "Mumbai",
+    "Aadhaar generated": 1789,
+    "Enrolment Rejected": 219
+}, {
+    "State": "Maharashtra",
+    "District": "Nagpur",
+    "Aadhaar generated": 532,
+    "Enrolment Rejected": 144
+}, {
+    "State": "Maharashtra",
+    "District": "Nanded",
+    "Aadhaar generated": 1656,
+    "Enrolment Rejected": 246
+}, {
+    "State": "Maharashtra",
+    "District": "Nandurbar",
+    "Aadhaar generated": 336,
+    "Enrolment Rejected": 39
+}, {
+    "State": "Maharashtra",
+    "District": "Nashik",
+    "Aadhaar generated": 1802,
+    "Enrolment Rejected": 173
+}, {
+    "State": "Maharashtra",
+    "District": "Osmanabad",
+    "Aadhaar generated": 179,
+    "Enrolment Rejected": 46
+}, {
+    "State": "Maharashtra",
+    "District": "Palghar",
+    "Aadhaar generated": 454,
+    "Enrolment Rejected": 113
+}, {
+    "State": "Maharashtra",
+    "District": "Parbhani",
+    "Aadhaar generated": 801,
+    "Enrolment Rejected": 113
+}, {
+    "State": "Maharashtra",
+    "District": "Pune",
+    "Aadhaar generated": 2535,
+    "Enrolment Rejected": 390
+}, {
+    "State": "Maharashtra",
+    "District": "Raigarh",
+    "Aadhaar generated": 334,
+    "Enrolment Rejected": 60
+}, {
+    "State": "Maharashtra",
+    "District": "Ratnagiri",
+    "Aadhaar generated": 255,
+    "Enrolment Rejected": 41
+}, {
+    "State": "Maharashtra",
+    "District": "Sangli",
+    "Aadhaar generated": 345,
+    "Enrolment Rejected": 47
+}, {
+    "State": "Maharashtra",
+    "District": "Satara",
+    "Aadhaar generated": 1295,
+    "Enrolment Rejected": 151
+}, {
+    "State": "Maharashtra",
+    "District": "Sindhudurg",
+    "Aadhaar generated": 39,
+    "Enrolment Rejected": 7
+}, {
+    "State": "Maharashtra",
+    "District": "Solapur",
+    "Aadhaar generated": 1058,
+    "Enrolment Rejected": 172
+}, {
+    "State": "Maharashtra",
+    "District": "Thane",
+    "Aadhaar generated": 1553,
+    "Enrolment Rejected": 209
+}, {
+    "State": "Maharashtra",
+    "District": "Wardha",
+    "Aadhaar generated": 126,
+    "Enrolment Rejected": 13
+}, {
+    "State": "Maharashtra",
+    "District": "Washim",
+    "Aadhaar generated": 328,
+    "Enrolment Rejected": 59
+}, {
+    "State": "Maharashtra",
+    "District": "Yavatmal",
+    "Aadhaar generated": 825,
+    "Enrolment Rejected": 199
+}, {
+    "State": "Manipur",
+    "District": "Bishnupur",
+    "Aadhaar generated": 323,
+    "Enrolment Rejected": 22
+}, {
+    "State": "Manipur",
+    "District": "Chandel",
+    "Aadhaar generated": 11,
+    "Enrolment Rejected": 23
+}, {
+    "State": "Manipur",
+    "District": "Churachandpur",
+    "Aadhaar generated": 36,
+    "Enrolment Rejected": 16
+}, {
+    "State": "Manipur",
+    "District": "Imphal East",
+    "Aadhaar generated": 26,
+    "Enrolment Rejected": 12
+}, {
+    "State": "Manipur",
+    "District": "Imphal West",
+    "Aadhaar generated": 85,
+    "Enrolment Rejected": 36
+}, {
+    "State": "Manipur",
+    "District": "Senapati",
+    "Aadhaar generated": 9,
+    "Enrolment Rejected": 4
+}, {
+    "State": "Manipur",
+    "District": "Tamenglong",
+    "Aadhaar generated": 20,
+    "Enrolment Rejected": 35
+}, {
+    "State": "Manipur",
+    "District": "Thoubal",
+    "Aadhaar generated": 116,
+    "Enrolment Rejected": 9
+}, {
+    "State": "Manipur",
+    "District": "Ukhrul",
+    "Aadhaar generated": 91,
+    "Enrolment Rejected": 5
+}, {
+    "State": "Meghalaya",
+    "District": "East Garo Hills",
+    "Aadhaar generated": 31,
+    "Enrolment Rejected": 0
+}, {
+    "State": "Meghalaya",
+    "District": "East Khasi Hills",
+    "Aadhaar generated": 12,
+    "Enrolment Rejected": 3
+}, {
+    "State": "Meghalaya",
+    "District": "Jaintia Hills",
+    "Aadhaar generated": 1,
+    "Enrolment Rejected": 0
+}, {
+    "State": "Meghalaya",
+    "District": "Ri Bhoi",
+    "Aadhaar generated": 1,
+    "Enrolment Rejected": 0
+}, {
+    "State": "Meghalaya",
+    "District": "West Garo Hills",
+    "Aadhaar generated": 110,
+    "Enrolment Rejected": 1
+}, {
+    "State": "Meghalaya",
+    "District": "West Khasi Hills",
+    "Aadhaar generated": 1,
+    "Enrolment Rejected": 0
+}, {
+    "State": "Mizoram",
+    "District": "Aizawl",
+    "Aadhaar generated": 5,
+    "Enrolment Rejected": 1
+}, {
+    "State": "Mizoram",
+    "District": "Lawngtlai",
+    "Aadhaar generated": 47,
+    "Enrolment Rejected": 0
+}, {
+    "State": "Mizoram",
+    "District": "Lunglei",
+    "Aadhaar generated": 0,
+    "Enrolment Rejected": 2
+}, {
+    "State": "Mizoram",
+    "District": "Mammit",
+    "Aadhaar generated": 1,
+    "Enrolment Rejected": 0
+}, {
+    "State": "Mizoram",
+    "District": "Saiha",
+    "Aadhaar generated": 1,
+    "Enrolment Rejected": 0
+}, {
+    "State": "Nagaland",
+    "District": "Dimapur",
+    "Aadhaar generated": 6,
+    "Enrolment Rejected": 9
+}, {
+    "State": "Nagaland",
+    "District": "Kohima",
+    "Aadhaar generated": 1,
+    "Enrolment Rejected": 0
+}, {
+    "State": "Nagaland",
+    "District": "Mokokchung",
+    "Aadhaar generated": 2,
+    "Enrolment Rejected": 7
+}, {
+    "State": "Nagaland",
+    "District": "Mon",
+    "Aadhaar generated": 2,
+    "Enrolment Rejected": 1
+}, {
+    "State": "Nagaland",
+    "District": "Peren",
+    "Aadhaar generated": 1,
+    "Enrolment Rejected": 0
+}, {
+    "State": "Nagaland",
+    "District": "Phek",
+    "Aadhaar generated": 0,
+    "Enrolment Rejected": 1
+}, {
+    "State": "Nagaland",
+    "District": "Tuensang",
+    "Aadhaar generated": 1,
+    "Enrolment Rejected": 0
+}, {
+    "State": "Nagaland",
+    "District": "Wokha",
+    "Aadhaar generated": 3,
+    "Enrolment Rejected": 0
+}, {
+    "State": "Nagaland",
+    "District": "Zunheboto",
+    "Aadhaar generated": 8,
+    "Enrolment Rejected": 1
+}, {
+    "State": "Odisha",
+    "District": "Angul",
+    "Aadhaar generated": 84,
+    "Enrolment Rejected": 51
+}, {
+    "State": "Odisha",
+    "District": "Balangir",
+    "Aadhaar generated": 466,
+    "Enrolment Rejected": 60
+}, {
+    "State": "Odisha",
+    "District": "Baleswar",
+    "Aadhaar generated": 126,
+    "Enrolment Rejected": 61
+}, {
+    "State": "Odisha",
+    "District": "Bargarh",
+    "Aadhaar generated": 399,
+    "Enrolment Rejected": 123
+}, {
+    "State": "Odisha",
+    "District": "Bhadrak",
+    "Aadhaar generated": 1122,
+    "Enrolment Rejected": 72
+}, {
+    "State": "Odisha",
+    "District": "Boudh",
+    "Aadhaar generated": 234,
+    "Enrolment Rejected": 10
+}, {
+    "State": "Odisha",
+    "District": "Cuttack",
+    "Aadhaar generated": 597,
+    "Enrolment Rejected": 146
+}, {
+    "State": "Odisha",
+    "District": "Debagarh",
+    "Aadhaar generated": 0,
+    "Enrolment Rejected": 13
+}, {
+    "State": "Odisha",
+    "District": "Dhenkanal",
+    "Aadhaar generated": 475,
+    "Enrolment Rejected": 103
+}, {
+    "State": "Odisha",
+    "District": "Gajapati",
+    "Aadhaar generated": 995,
+    "Enrolment Rejected": 27
+}, {
+    "State": "Odisha",
+    "District": "Ganjam",
+    "Aadhaar generated": 612,
+    "Enrolment Rejected": 605
+}, {
+    "State": "Odisha",
+    "District": "Jagatsinghapur",
+    "Aadhaar generated": 61,
+    "Enrolment Rejected": 48
+}, {
+    "State": "Odisha",
+    "District": "Jajapur",
+    "Aadhaar generated": 410,
+    "Enrolment Rejected": 208
+}, {
+    "State": "Odisha",
+    "District": "Jharsuguda",
+    "Aadhaar generated": 21,
+    "Enrolment Rejected": 62
+}, {
+    "State": "Odisha",
+    "District": "Kalahandi",
+    "Aadhaar generated": 2353,
+    "Enrolment Rejected": 71
+}, {
+    "State": "Odisha",
+    "District": "Kandhamal",
+    "Aadhaar generated": 11,
+    "Enrolment Rejected": 17
+}, {
+    "State": "Odisha",
+    "District": "Kendrapara",
+    "Aadhaar generated": 125,
+    "Enrolment Rejected": 25
+}, {
+    "State": "Odisha",
+    "District": "Kendujhar",
+    "Aadhaar generated": 661,
+    "Enrolment Rejected": 197
+}, {
+    "State": "Odisha",
+    "District": "Khorda",
+    "Aadhaar generated": 1395,
+    "Enrolment Rejected": 90
+}, {
+    "State": "Odisha",
+    "District": "Koraput",
+    "Aadhaar generated": 782,
+    "Enrolment Rejected": 378
+}, {
+    "State": "Odisha",
+    "District": "Malkangiri",
+    "Aadhaar generated": 349,
+    "Enrolment Rejected": 90
+}, {
+    "State": "Odisha",
+    "District": "Mayurbhanj",
+    "Aadhaar generated": 211,
+    "Enrolment Rejected": 135
+}, {
+    "State": "Odisha",
+    "District": "Nabarangapur",
+    "Aadhaar generated": 27,
+    "Enrolment Rejected": 12
+}, {
+    "State": "Odisha",
+    "District": "Nayagarh",
+    "Aadhaar generated": 76,
+    "Enrolment Rejected": 11
+}, {
+    "State": "Odisha",
+    "District": "Nuapada",
+    "Aadhaar generated": 8,
+    "Enrolment Rejected": 1
+}, {
+    "State": "Odisha",
+    "District": "Puri",
+    "Aadhaar generated": 81,
+    "Enrolment Rejected": 44
+}, {
+    "State": "Odisha",
+    "District": "Rayagada",
+    "Aadhaar generated": 208,
+    "Enrolment Rejected": 115
+}, {
+    "State": "Odisha",
+    "District": "Sambalpur",
+    "Aadhaar generated": 86,
+    "Enrolment Rejected": 81
+}, {
+    "State": "Odisha",
+    "District": "Sonapur",
+    "Aadhaar generated": 39,
+    "Enrolment Rejected": 18
+}, {
+    "State": "Odisha",
+    "District": "Sundergarh",
+    "Aadhaar generated": 49,
+    "Enrolment Rejected": 61
+}, {
+    "State": "Others",
+    "District": "Others",
+    "Aadhaar generated": 4,
+    "Enrolment Rejected": 8
+}, {
+    "State": "Puducherry",
+    "District": "Karaikal",
+    "Aadhaar generated": 17,
+    "Enrolment Rejected": 1
+}, {
+    "State": "Puducherry",
+    "District": "Puducherry",
+    "Aadhaar generated": 82,
+    "Enrolment Rejected": 11
+}, {
+    "State": "Punjab",
+    "District": "Amritsar",
+    "Aadhaar generated": 910,
+    "Enrolment Rejected": 277
+}, {
+    "State": "Punjab",
+    "District": "Barnala",
+    "Aadhaar generated": 80,
+    "Enrolment Rejected": 13
+}, {
+    "State": "Punjab",
+    "District": "Bathinda",
+    "Aadhaar generated": 208,
+    "Enrolment Rejected": 51
+}, {
+    "State": "Punjab",
+    "District": "Faridkot",
+    "Aadhaar generated": 306,
+    "Enrolment Rejected": 32
+}, {
+    "State": "Punjab",
+    "District": "Fatehgarh Sahib",
+    "Aadhaar generated": 43,
+    "Enrolment Rejected": 4
+}, {
+    "State": "Punjab",
+    "District": "Fazilka",
+    "Aadhaar generated": 262,
+    "Enrolment Rejected": 40
+}, {
+    "State": "Punjab",
+    "District": "Ferozepur",
+    "Aadhaar generated": 139,
+    "Enrolment Rejected": 103
+}, {
+    "State": "Punjab",
+    "District": "Gurdaspur",
+    "Aadhaar generated": 494,
+    "Enrolment Rejected": 58
+}, {
+    "State": "Punjab",
+    "District": "Hoshiarpur",
+    "Aadhaar generated": 995,
+    "Enrolment Rejected": 75
+}, {
+    "State": "Punjab",
+    "District": "Jalandhar",
+    "Aadhaar generated": 330,
+    "Enrolment Rejected": 50
+}, {
+    "State": "Punjab",
+    "District": "Kapurthala",
+    "Aadhaar generated": 114,
+    "Enrolment Rejected": 38
+}, {
+    "State": "Punjab",
+    "District": "Ludhiana",
+    "Aadhaar generated": 620,
+    "Enrolment Rejected": 97
+}, {
+    "State": "Punjab",
+    "District": "Mansa",
+    "Aadhaar generated": 201,
+    "Enrolment Rejected": 26
+}, {
+    "State": "Punjab",
+    "District": "Moga",
+    "Aadhaar generated": 100,
+    "Enrolment Rejected": 17
+}, {
+    "State": "Punjab",
+    "District": "Pathankot",
+    "Aadhaar generated": 202,
+    "Enrolment Rejected": 5
+}, {
+    "State": "Punjab",
+    "District": "Patiala",
+    "Aadhaar generated": 562,
+    "Enrolment Rejected": 96
+}, {
+    "State": "Punjab",
+    "District": "Rupnagar",
+    "Aadhaar generated": 277,
+    "Enrolment Rejected": 41
+}, {
+    "State": "Punjab",
+    "District": "SAS Nagar (Mohali)",
+    "Aadhaar generated": 276,
+    "Enrolment Rejected": 26
+}, {
+    "State": "Punjab",
+    "District": "Sangrur",
+    "Aadhaar generated": 425,
+    "Enrolment Rejected": 36
+}, {
+    "State": "Punjab",
+    "District": "Shaheed Bhagat Singh Nagar",
+    "Aadhaar generated": 208,
+    "Enrolment Rejected": 21
+}, {
+    "State": "Punjab",
+    "District": "Sri Muktsar Sahib",
+    "Aadhaar generated": 435,
+    "Enrolment Rejected": 54
+}, {
+    "State": "Punjab",
+    "District": "Tarn Taran",
+    "Aadhaar generated": 454,
+    "Enrolment Rejected": 66
+}, {
+    "State": "Rajasthan",
+    "District": "Ajmer",
+    "Aadhaar generated": 342,
+    "Enrolment Rejected": 67
+}, {
+    "State": "Rajasthan",
+    "District": "Alwar",
+    "Aadhaar generated": 507,
+    "Enrolment Rejected": 131
+}, {
+    "State": "Rajasthan",
+    "District": "Banswara",
+    "Aadhaar generated": 385,
+    "Enrolment Rejected": 34
+}, {
+    "State": "Rajasthan",
+    "District": "Baran",
+    "Aadhaar generated": 232,
+    "Enrolment Rejected": 21
+}, {
+    "State": "Rajasthan",
+    "District": "Barmer",
+    "Aadhaar generated": 429,
+    "Enrolment Rejected": 58
+}, {
+    "State": "Rajasthan",
+    "District": "Bharatpur",
+    "Aadhaar generated": 785,
+    "Enrolment Rejected": 106
+}, {
+    "State": "Rajasthan",
+    "District": "Bhilwara",
+    "Aadhaar generated": 641,
+    "Enrolment Rejected": 90
+}, {
+    "State": "Rajasthan",
+    "District": "Bikaner",
+    "Aadhaar generated": 517,
+    "Enrolment Rejected": 70
+}, {
+    "State": "Rajasthan",
+    "District": "Bundi",
+    "Aadhaar generated": 175,
+    "Enrolment Rejected": 39
+}, {
+    "State": "Rajasthan",
+    "District": "Chittorgarh",
+    "Aadhaar generated": 283,
+    "Enrolment Rejected": 52
+}, {
+    "State": "Rajasthan",
+    "District": "Churu",
+    "Aadhaar generated": 367,
+    "Enrolment Rejected": 59
+}, {
+    "State": "Rajasthan",
+    "District": "Dausa",
+    "Aadhaar generated": 305,
+    "Enrolment Rejected": 55
+}, {
+    "State": "Rajasthan",
+    "District": "Dholpur",
+    "Aadhaar generated": 427,
+    "Enrolment Rejected": 97
+}, {
+    "State": "Rajasthan",
+    "District": "Dungarpur",
+    "Aadhaar generated": 186,
+    "Enrolment Rejected": 24
+}, {
+    "State": "Rajasthan",
+    "District": "Ganganagar",
+    "Aadhaar generated": 244,
+    "Enrolment Rejected": 68
+}, {
+    "State": "Rajasthan",
+    "District": "Hanumangarh",
+    "Aadhaar generated": 308,
+    "Enrolment Rejected": 42
+}, {
+    "State": "Rajasthan",
+    "District": "Jaipur",
+    "Aadhaar generated": 1131,
+    "Enrolment Rejected": 191
+}, {
+    "State": "Rajasthan",
+    "District": "Jaisalmer",
+    "Aadhaar generated": 219,
+    "Enrolment Rejected": 33
+}, {
+    "State": "Rajasthan",
+    "District": "Jalor",
+    "Aadhaar generated": 366,
+    "Enrolment Rejected": 77
+}, {
+    "State": "Rajasthan",
+    "District": "Jhalawar",
+    "Aadhaar generated": 239,
+    "Enrolment Rejected": 43
+}, {
+    "State": "Rajasthan",
+    "District": "Jhunjhunun",
+    "Aadhaar generated": 291,
+    "Enrolment Rejected": 71
+}, {
+    "State": "Rajasthan",
+    "District": "Jodhpur",
+    "Aadhaar generated": 867,
+    "Enrolment Rejected": 100
+}, {
+    "State": "Rajasthan",
+    "District": "Karauli",
+    "Aadhaar generated": 450,
+    "Enrolment Rejected": 36
+}, {
+    "State": "Rajasthan",
+    "District": "Kota",
+    "Aadhaar generated": 251,
+    "Enrolment Rejected": 48
+}, {
+    "State": "Rajasthan",
+    "District": "Nagaur",
+    "Aadhaar generated": 744,
+    "Enrolment Rejected": 91
+}, {
+    "State": "Rajasthan",
+    "District": "Pali",
+    "Aadhaar generated": 212,
+    "Enrolment Rejected": 40
+}, {
+    "State": "Rajasthan",
+    "District": "Pratapgarh",
+    "Aadhaar generated": 100,
+    "Enrolment Rejected": 16
+}, {
+    "State": "Rajasthan",
+    "District": "Rajsamand",
+    "Aadhaar generated": 178,
+    "Enrolment Rejected": 64
+}, {
+    "State": "Rajasthan",
+    "District": "Sawai Madhopur",
+    "Aadhaar generated": 289,
+    "Enrolment Rejected": 37
+}, {
+    "State": "Rajasthan",
+    "District": "Sikar",
+    "Aadhaar generated": 374,
+    "Enrolment Rejected": 74
+}, {
+    "State": "Rajasthan",
+    "District": "Sirohi",
+    "Aadhaar generated": 177,
+    "Enrolment Rejected": 67
+}, {
+    "State": "Rajasthan",
+    "District": "Tonk",
+    "Aadhaar generated": 275,
+    "Enrolment Rejected": 58
+}, {
+    "State": "Rajasthan",
+    "District": "Udaipur",
+    "Aadhaar generated": 328,
+    "Enrolment Rejected": 59
+}, {
+    "State": "Sikkim",
+    "District": "East Sikkim",
+    "Aadhaar generated": 28,
+    "Enrolment Rejected": 2
+}, {
+    "State": "Sikkim",
+    "District": "North Sikkim",
+    "Aadhaar generated": 7,
+    "Enrolment Rejected": 0
+}, {
+    "State": "Sikkim",
+    "District": "South Sikkim",
+    "Aadhaar generated": 10,
+    "Enrolment Rejected": 1
+}, {
+    "State": "Tamil Nadu",
+    "District": "Ariyalur",
+    "Aadhaar generated": 40,
+    "Enrolment Rejected": 117
+}, {
+    "State": "Tamil Nadu",
+    "District": "Chennai",
+    "Aadhaar generated": 1885,
+    "Enrolment Rejected": 137
+}, {
+    "State": "Tamil Nadu",
+    "District": "Coimbatore",
+    "Aadhaar generated": 50,
+    "Enrolment Rejected": 25
+}, {
+    "State": "Tamil Nadu",
+    "District": "Cuddalore",
+    "Aadhaar generated": 42,
+    "Enrolment Rejected": 9
+}, {
+    "State": "Tamil Nadu",
+    "District": "Dharmapuri",
+    "Aadhaar generated": 55,
+    "Enrolment Rejected": 2
+}, {
+    "State": "Tamil Nadu",
+    "District": "Dindigul",
+    "Aadhaar generated": 97,
+    "Enrolment Rejected": 202
+}, {
+    "State": "Tamil Nadu",
+    "District": "Erode",
+    "Aadhaar generated": 35,
+    "Enrolment Rejected": 8
+}, {
+    "State": "Tamil Nadu",
+    "District": "Kancheepuram",
+    "Aadhaar generated": 771,
+    "Enrolment Rejected": 184
+}, {
+    "State": "Tamil Nadu",
+    "District": "Kanniyakumari",
+    "Aadhaar generated": 433,
+    "Enrolment Rejected": 148
+}, {
+    "State": "Tamil Nadu",
+    "District": "Karur",
+    "Aadhaar generated": 3,
+    "Enrolment Rejected": 1
+}, {
+    "State": "Tamil Nadu",
+    "District": "Krishnagiri",
+    "Aadhaar generated": 83,
+    "Enrolment Rejected": 14
+}, {
+    "State": "Tamil Nadu",
+    "District": "Madurai",
+    "Aadhaar generated": 122,
+    "Enrolment Rejected": 230
+}, {
+    "State": "Tamil Nadu",
+    "District": "Nagapattinam",
+    "Aadhaar generated": 14,
+    "Enrolment Rejected": 1
+}, {
+    "State": "Tamil Nadu",
+    "District": "Namakkal",
+    "Aadhaar generated": 6,
+    "Enrolment Rejected": 0
+}, {
+    "State": "Tamil Nadu",
+    "District": "Perambalur",
+    "Aadhaar generated": 145,
+    "Enrolment Rejected": 4
+}, {
+    "State": "Tamil Nadu",
+    "District": "Pudukkottai",
+    "Aadhaar generated": 506,
+    "Enrolment Rejected": 44
+}, {
+    "State": "Tamil Nadu",
+    "District": "Ramanathapuram",
+    "Aadhaar generated": 273,
+    "Enrolment Rejected": 144
+}, {
+    "State": "Tamil Nadu",
+    "District": "Salem",
+    "Aadhaar generated": 312,
+    "Enrolment Rejected": 5
+}, {
+    "State": "Tamil Nadu",
+    "District": "Sivaganga",
+    "Aadhaar generated": 12,
+    "Enrolment Rejected": 2
+}, {
+    "State": "Tamil Nadu",
+    "District": "Thanjavur",
+    "Aadhaar generated": 168,
+    "Enrolment Rejected": 127
+}, {
+    "State": "Tamil Nadu",
+    "District": "The Nilgiris",
+    "Aadhaar generated": 406,
+    "Enrolment Rejected": 9
+}, {
+    "State": "Tamil Nadu",
+    "District": "Theni",
+    "Aadhaar generated": 77,
+    "Enrolment Rejected": 389
+}, {
+    "State": "Tamil Nadu",
+    "District": "Thiruvarur",
+    "Aadhaar generated": 3,
+    "Enrolment Rejected": 3
+}, {
+    "State": "Tamil Nadu",
+    "District": "Thoothukkudi",
+    "Aadhaar generated": 46,
+    "Enrolment Rejected": 366
+}, {
+    "State": "Tamil Nadu",
+    "District": "Tiruchirappalli",
+    "Aadhaar generated": 43,
+    "Enrolment Rejected": 243
+}, {
+    "State": "Tamil Nadu",
+    "District": "Tirunelveli",
+    "Aadhaar generated": 45,
+    "Enrolment Rejected": 625
+}, {
+    "State": "Tamil Nadu",
+    "District": "Tiruppur",
+    "Aadhaar generated": 4,
+    "Enrolment Rejected": 17
+}, {
+    "State": "Tamil Nadu",
+    "District": "Tiruvallur",
+    "Aadhaar generated": 1776,
+    "Enrolment Rejected": 173
+}, {
+    "State": "Tamil Nadu",
+    "District": "Tiruvannamalai",
+    "Aadhaar generated": 33,
+    "Enrolment Rejected": 7
+}, {
+    "State": "Tamil Nadu",
+    "District": "Vellore",
+    "Aadhaar generated": 619,
+    "Enrolment Rejected": 18
+}, {
+    "State": "Tamil Nadu",
+    "District": "Villupuram",
+    "Aadhaar generated": 121,
+    "Enrolment Rejected": 61
+}, {
+    "State": "Tamil Nadu",
+    "District": "Virudhunagar",
+    "Aadhaar generated": 5,
+    "Enrolment Rejected": 7
+}, {
+    "State": "Telangana",
+    "District": "Adilabad",
+    "Aadhaar generated": 253,
+    "Enrolment Rejected": 9
+}, {
+    "State": "Telangana",
+    "District": "Hyderabad",
+    "Aadhaar generated": 478,
+    "Enrolment Rejected": 53
+}, {
+    "State": "Telangana",
+    "District": "K.v. Rangareddy",
+    "Aadhaar generated": 228,
+    "Enrolment Rejected": 45
+}, {
+    "State": "Telangana",
+    "District": "Karimnagar",
+    "Aadhaar generated": 233,
+    "Enrolment Rejected": 8
+}, {
+    "State": "Telangana",
+    "District": "Khammam",
+    "Aadhaar generated": 68,
+    "Enrolment Rejected": 7
+}, {
+    "State": "Telangana",
+    "District": "Mahabubnagar",
+    "Aadhaar generated": 130,
+    "Enrolment Rejected": 15
+}, {
+    "State": "Telangana",
+    "District": "Medak",
+    "Aadhaar generated": 183,
+    "Enrolment Rejected": 15
+}, {
+    "State": "Telangana",
+    "District": "Nalgonda",
+    "Aadhaar generated": 82,
+    "Enrolment Rejected": 12
+}, {
+    "State": "Telangana",
+    "District": "Nizamabad",
+    "Aadhaar generated": 117,
+    "Enrolment Rejected": 15
+}, {
+    "State": "Telangana",
+    "District": "Warangal",
+    "Aadhaar generated": 93,
+    "Enrolment Rejected": 15
+}, {
+    "State": "Tripura",
+    "District": "Dhalai",
+    "Aadhaar generated": 21,
+    "Enrolment Rejected": 30
+}, {
+    "State": "Tripura",
+    "District": "Gomati",
+    "Aadhaar generated": 7,
+    "Enrolment Rejected": 8
+}, {
+    "State": "Tripura",
+    "District": "Khowai",
+    "Aadhaar generated": 1,
+    "Enrolment Rejected": 11
+}, {
+    "State": "Tripura",
+    "District": "North Tripura",
+    "Aadhaar generated": 42,
+    "Enrolment Rejected": 8
+}, {
+    "State": "Tripura",
+    "District": "Sepahijala",
+    "Aadhaar generated": 8,
+    "Enrolment Rejected": 1
+}, {
+    "State": "Tripura",
+    "District": "South Tripura",
+    "Aadhaar generated": 182,
+    "Enrolment Rejected": 26
+}, {
+    "State": "Tripura",
+    "District": "Unakoti",
+    "Aadhaar generated": 2,
+    "Enrolment Rejected": 4
+}, {
+    "State": "Tripura",
+    "District": "West Tripura",
+    "Aadhaar generated": 20,
+    "Enrolment Rejected": 3
+}, {
+    "State": "Uttar Pradesh",
+    "District": "Agra",
+    "Aadhaar generated": 841,
+    "Enrolment Rejected": 184
+}, {
+    "State": "Uttar Pradesh",
+    "District": "Aligarh",
+    "Aadhaar generated": 1063,
+    "Enrolment Rejected": 139
+}, {
+    "State": "Uttar Pradesh",
+    "District": "Allahabad",
+    "Aadhaar generated": 2435,
+    "Enrolment Rejected": 431
+}, {
+    "State": "Uttar Pradesh",
+    "District": "Ambedkar Nagar",
+    "Aadhaar generated": 843,
+    "Enrolment Rejected": 157
+}, {
+    "State": "Uttar Pradesh",
+    "District": "Amethi",
+    "Aadhaar generated": 363,
+    "Enrolment Rejected": 128
+}, {
+    "State": "Uttar Pradesh",
+    "District": "Amroha",
+    "Aadhaar generated": 563,
+    "Enrolment Rejected": 111
+}, {
+    "State": "Uttar Pradesh",
+    "District": "Auraiya",
+    "Aadhaar generated": 536,
+    "Enrolment Rejected": 54
+}, {
+    "State": "Uttar Pradesh",
+    "District": "Azamgarh",
+    "Aadhaar generated": 1567,
+    "Enrolment Rejected": 233
+}, {
+    "State": "Uttar Pradesh",
+    "District": "Baghpat",
+    "Aadhaar generated": 161,
+    "Enrolment Rejected": 36
+}, {
+    "State": "Uttar Pradesh",
+    "District": "Bahraich",
+    "Aadhaar generated": 1955,
+    "Enrolment Rejected": 269
+}, {
+    "State": "Uttar Pradesh",
+    "District": "Ballia",
+    "Aadhaar generated": 505,
+    "Enrolment Rejected": 125
+}, {
+    "State": "Uttar Pradesh",
+    "District": "Balrampur",
+    "Aadhaar generated": 498,
+    "Enrolment Rejected": 215
+}, {
+    "State": "Uttar Pradesh",
+    "District": "Banda",
+    "Aadhaar generated": 989,
+    "Enrolment Rejected": 128
+}, {
+    "State": "Uttar Pradesh",
+    "District": "Bara Banki",
+    "Aadhaar generated": 1463,
+    "Enrolment Rejected": 325
+}, {
+    "State": "Uttar Pradesh",
+    "District": "Bareilly",
+    "Aadhaar generated": 1666,
+    "Enrolment Rejected": 294
+}, {
+    "State": "Uttar Pradesh",
+    "District": "Basti",
+    "Aadhaar generated": 739,
+    "Enrolment Rejected": 178
+}, {
+    "State": "Uttar Pradesh",
+    "District": "Bijnor",
+    "Aadhaar generated": 721,
+    "Enrolment Rejected": 147
+}, {
+    "State": "Uttar Pradesh",
+    "District": "Budaun",
+    "Aadhaar generated": 697,
+    "Enrolment Rejected": 144
+}, {
+    "State": "Uttar Pradesh",
+    "District": "Bulandshahr",
+    "Aadhaar generated": 677,
+    "Enrolment Rejected": 152
+}, {
+    "State": "Uttar Pradesh",
+    "District": "Chandauli",
+    "Aadhaar generated": 422,
+    "Enrolment Rejected": 95
+}, {
+    "State": "Uttar Pradesh",
+    "District": "Chitrakoot",
+    "Aadhaar generated": 326,
+    "Enrolment Rejected": 44
+}, {
+    "State": "Uttar Pradesh",
+    "District": "Deoria",
+    "Aadhaar generated": 572,
+    "Enrolment Rejected": 119
+}, {
+    "State": "Uttar Pradesh",
+    "District": "Etah",
+    "Aadhaar generated": 488,
+    "Enrolment Rejected": 59
+}, {
+    "State": "Uttar Pradesh",
+    "District": "Etawah",
+    "Aadhaar generated": 179,
+    "Enrolment Rejected": 58
+}, {
+    "State": "Uttar Pradesh",
+    "District": "Faizabad",
+    "Aadhaar generated": 1684,
+    "Enrolment Rejected": 345
+}, {
+    "State": "Uttar Pradesh",
+    "District": "Farrukhabad",
+    "Aadhaar generated": 387,
+    "Enrolment Rejected": 131
+}, {
+    "State": "Uttar Pradesh",
+    "District": "Fatehpur",
+    "Aadhaar generated": 513,
+    "Enrolment Rejected": 125
+}, {
+    "State": "Uttar Pradesh",
+    "District": "Firozabad",
+    "Aadhaar generated": 559,
+    "Enrolment Rejected": 99
+}, {
+    "State": "Uttar Pradesh",
+    "District": "Gautam Buddha Nagar",
+    "Aadhaar generated": 363,
+    "Enrolment Rejected": 62
+}, {
+    "State": "Uttar Pradesh",
+    "District": "Ghaziabad",
+    "Aadhaar generated": 605,
+    "Enrolment Rejected": 108
+}, {
+    "State": "Uttar Pradesh",
+    "District": "Ghazipur",
+    "Aadhaar generated": 959,
+    "Enrolment Rejected": 174
+}, {
+    "State": "Uttar Pradesh",
+    "District": "Gonda",
+    "Aadhaar generated": 1226,
+    "Enrolment Rejected": 219
+}, {
+    "State": "Uttar Pradesh",
+    "District": "Gorakhpur",
+    "Aadhaar generated": 1034,
+    "Enrolment Rejected": 211
+}, {
+    "State": "Uttar Pradesh",
+    "District": "Hamirpur",
+    "Aadhaar generated": 657,
+    "Enrolment Rejected": 60
+}, {
+    "State": "Uttar Pradesh",
+    "District": "Hapur",
+    "Aadhaar generated": 233,
+    "Enrolment Rejected": 50
+}, {
+    "State": "Uttar Pradesh",
+    "District": "Hardoi",
+    "Aadhaar generated": 1163,
+    "Enrolment Rejected": 278
+}, {
+    "State": "Uttar Pradesh",
+    "District": "Hathras",
+    "Aadhaar generated": 264,
+    "Enrolment Rejected": 59
+}, {
+    "State": "Uttar Pradesh",
+    "District": "Jalaun",
+    "Aadhaar generated": 414,
+    "Enrolment Rejected": 77
+}, {
+    "State": "Uttar Pradesh",
+    "District": "Jaunpur",
+    "Aadhaar generated": 1363,
+    "Enrolment Rejected": 209
+}, {
+    "State": "Uttar Pradesh",
+    "District": "Jhansi",
+    "Aadhaar generated": 311,
+    "Enrolment Rejected": 46
+}, {
+    "State": "Uttar Pradesh",
+    "District": "Kannauj",
+    "Aadhaar generated": 509,
+    "Enrolment Rejected": 116
+}, {
+    "State": "Uttar Pradesh",
+    "District": "Kanpur Dehat",
+    "Aadhaar generated": 363,
+    "Enrolment Rejected": 94
+}, {
+    "State": "Uttar Pradesh",
+    "District": "Kanpur Nagar",
+    "Aadhaar generated": 969,
+    "Enrolment Rejected": 274
+}, {
+    "State": "Uttar Pradesh",
+    "District": "Kasganj",
+    "Aadhaar generated": 279,
+    "Enrolment Rejected": 54
+}, {
+    "State": "Uttar Pradesh",
+    "District": "Kaushambi",
+    "Aadhaar generated": 675,
+    "Enrolment Rejected": 71
+}, {
+    "State": "Uttar Pradesh",
+    "District": "Kheri",
+    "Aadhaar generated": 2087,
+    "Enrolment Rejected": 343
+}, {
+    "State": "Uttar Pradesh",
+    "District": "Kushinagar",
+    "Aadhaar generated": 815,
+    "Enrolment Rejected": 153
+}, {
+    "State": "Uttar Pradesh",
+    "District": "Lalitpur",
+    "Aadhaar generated": 199,
+    "Enrolment Rejected": 56
+}, {
+    "State": "Uttar Pradesh",
+    "District": "Lucknow",
+    "Aadhaar generated": 985,
+    "Enrolment Rejected": 272
+}, {
+    "State": "Uttar Pradesh",
+    "District": "Maharajganj",
+    "Aadhaar generated": 519,
+    "Enrolment Rejected": 148
+}, {
+    "State": "Uttar Pradesh",
+    "District": "Mahoba",
+    "Aadhaar generated": 303,
+    "Enrolment Rejected": 41
+}, {
+    "State": "Uttar Pradesh",
+    "District": "Mainpuri",
+    "Aadhaar generated": 449,
+    "Enrolment Rejected": 137
+}, {
+    "State": "Uttar Pradesh",
+    "District": "Mathura",
+    "Aadhaar generated": 432,
+    "Enrolment Rejected": 97
+}, {
+    "State": "Uttar Pradesh",
+    "District": "Mau",
+    "Aadhaar generated": 705,
+    "Enrolment Rejected": 110
+}, {
+    "State": "Uttar Pradesh",
+    "District": "Meerut",
+    "Aadhaar generated": 651,
+    "Enrolment Rejected": 212
+}, {
+    "State": "Uttar Pradesh",
+    "District": "Mirzapur",
+    "Aadhaar generated": 607,
+    "Enrolment Rejected": 84
+}, {
+    "State": "Uttar Pradesh",
+    "District": "Moradabad",
+    "Aadhaar generated": 1029,
+    "Enrolment Rejected": 190
+}, {
+    "State": "Uttar Pradesh",
+    "District": "Muzaffarnagar",
+    "Aadhaar generated": 427,
+    "Enrolment Rejected": 134
+}, {
+    "State": "Uttar Pradesh",
+    "District": "Pilibhit",
+    "Aadhaar generated": 1007,
+    "Enrolment Rejected": 244
+}, {
+    "State": "Uttar Pradesh",
+    "District": "Pratapgarh",
+    "Aadhaar generated": 580,
+    "Enrolment Rejected": 161
+}, {
+    "State": "Uttar Pradesh",
+    "District": "Rae Bareli",
+    "Aadhaar generated": 330,
+    "Enrolment Rejected": 119
+}, {
+    "State": "Uttar Pradesh",
+    "District": "Rampur",
+    "Aadhaar generated": 1298,
+    "Enrolment Rejected": 222
+}, {
+    "State": "Uttar Pradesh",
+    "District": "Saharanpur",
+    "Aadhaar generated": 532,
+    "Enrolment Rejected": 123
+}, {
+    "State": "Uttar Pradesh",
+    "District": "Sambhal",
+    "Aadhaar generated": 908,
+    "Enrolment Rejected": 149
+}, {
+    "State": "Uttar Pradesh",
+    "District": "Sant Kabir Nagar",
+    "Aadhaar generated": 523,
+    "Enrolment Rejected": 146
+}, {
+    "State": "Uttar Pradesh",
+    "District": "Sant Ravidas Nagar",
+    "Aadhaar generated": 354,
+    "Enrolment Rejected": 76
+}, {
+    "State": "Uttar Pradesh",
+    "District": "Shahjahanpur",
+    "Aadhaar generated": 1138,
+    "Enrolment Rejected": 199
+}, {
+    "State": "Uttar Pradesh",
+    "District": "Shamli",
+    "Aadhaar generated": 215,
+    "Enrolment Rejected": 55
+}, {
+    "State": "Uttar Pradesh",
+    "District": "Shrawasti",
+    "Aadhaar generated": 458,
+    "Enrolment Rejected": 77
+}, {
+    "State": "Uttar Pradesh",
+    "District": "Siddharthnagar",
+    "Aadhaar generated": 629,
+    "Enrolment Rejected": 102
+}, {
+    "State": "Uttar Pradesh",
+    "District": "Sitapur",
+    "Aadhaar generated": 3874,
+    "Enrolment Rejected": 574
+}, {
+    "State": "Uttar Pradesh",
+    "District": "Sonbhadra",
+    "Aadhaar generated": 291,
+    "Enrolment Rejected": 49
+}, {
+    "State": "Uttar Pradesh",
+    "District": "Sultanpur",
+    "Aadhaar generated": 579,
+    "Enrolment Rejected": 111
+}, {
+    "State": "Uttar Pradesh",
+    "District": "Unnao",
+    "Aadhaar generated": 723,
+    "Enrolment Rejected": 155
+}, {
+    "State": "Uttar Pradesh",
+    "District": "Varanasi",
+    "Aadhaar generated": 1036,
+    "Enrolment Rejected": 163
+}, {
+    "State": "Uttarakhand",
+    "District": "Almora",
+    "Aadhaar generated": 342,
+    "Enrolment Rejected": 118
+}, {
+    "State": "Uttarakhand",
+    "District": "Bageshwar",
+    "Aadhaar generated": 99,
+    "Enrolment Rejected": 20
+}, {
+    "State": "Uttarakhand",
+    "District": "Chamoli",
+    "Aadhaar generated": 119,
+    "Enrolment Rejected": 15
+}, {
+    "State": "Uttarakhand",
+    "District": "Champawat",
+    "Aadhaar generated": 126,
+    "Enrolment Rejected": 24
+}, {
+    "State": "Uttarakhand",
+    "District": "Dehradun",
+    "Aadhaar generated": 861,
+    "Enrolment Rejected": 177
+}, {
+    "State": "Uttarakhand",
+    "District": "Haridwar",
+    "Aadhaar generated": 1654,
+    "Enrolment Rejected": 352
+}, {
+    "State": "Uttarakhand",
+    "District": "Nainital",
+    "Aadhaar generated": 448,
+    "Enrolment Rejected": 42
+}, {
+    "State": "Uttarakhand",
+    "District": "Pauri Garhwal",
+    "Aadhaar generated": 315,
+    "Enrolment Rejected": 44
+}, {
+    "State": "Uttarakhand",
+    "District": "Pithoragarh",
+    "Aadhaar generated": 232,
+    "Enrolment Rejected": 23
+}, {
+    "State": "Uttarakhand",
+    "District": "Rudraprayag",
+    "Aadhaar generated": 121,
+    "Enrolment Rejected": 40
+}, {
+    "State": "Uttarakhand",
+    "District": "Tehri Garhwal",
+    "Aadhaar generated": 129,
+    "Enrolment Rejected": 43
+}, {
+    "State": "Uttarakhand",
+    "District": "Udham Singh Nagar",
+    "Aadhaar generated": 807,
+    "Enrolment Rejected": 114
+}, {
+    "State": "Uttarakhand",
+    "District": "Uttarkashi",
+    "Aadhaar generated": 36,
+    "Enrolment Rejected": 13
+}, {
+    "State": "West Bengal",
+    "District": "Bankura",
+    "Aadhaar generated": 201,
+    "Enrolment Rejected": 88
+}, {
+    "State": "West Bengal",
+    "District": "Barddhaman",
+    "Aadhaar generated": 3462,
+    "Enrolment Rejected": 530
+}, {
+    "State": "West Bengal",
+    "District": "Birbhum",
+    "Aadhaar generated": 797,
+    "Enrolment Rejected": 349
+}, {
+    "State": "West Bengal",
+    "District": "Cooch Behar",
+    "Aadhaar generated": 88,
+    "Enrolment Rejected": 15
+}, {
+    "State": "West Bengal",
+    "District": "Dakshin Dinajpur",
+    "Aadhaar generated": 142,
+    "Enrolment Rejected": 25
+}, {
+    "State": "West Bengal",
+    "District": "Darjeeling",
+    "Aadhaar generated": 23,
+    "Enrolment Rejected": 4
+}, {
+    "State": "West Bengal",
+    "District": "Hooghly",
+    "Aadhaar generated": 135,
+    "Enrolment Rejected": 34
+}, {
+    "State": "West Bengal",
+    "District": "Howrah",
+    "Aadhaar generated": 609,
+    "Enrolment Rejected": 90
+}, {
+    "State": "West Bengal",
+    "District": "Jalpaiguri",
+    "Aadhaar generated": 255,
+    "Enrolment Rejected": 29
+}, {
+    "State": "West Bengal",
+    "District": "Kolkata",
+    "Aadhaar generated": 943,
+    "Enrolment Rejected": 105
+}, {
+    "State": "West Bengal",
+    "District": "Malda",
+    "Aadhaar generated": 1085,
+    "Enrolment Rejected": 206
+}, {
+    "State": "West Bengal",
+    "District": "Murshidabad",
+    "Aadhaar generated": 289,
+    "Enrolment Rejected": 54
+}, {
+    "State": "West Bengal",
+    "District": "Nadia",
+    "Aadhaar generated": 197,
+    "Enrolment Rejected": 50
+}, {
+    "State": "West Bengal",
+    "District": "North 24 Parganas",
+    "Aadhaar generated": 3420,
+    "Enrolment Rejected": 365
+}, {
+    "State": "West Bengal",
+    "District": "Paschim Medinipur",
+    "Aadhaar generated": 1237,
+    "Enrolment Rejected": 637
+}, {
+    "State": "West Bengal",
+    "District": "Purba Medinipur",
+    "Aadhaar generated": 269,
+    "Enrolment Rejected": 40
+}, {
+    "State": "West Bengal",
+    "District": "Puruliya",
+    "Aadhaar generated": 299,
+    "Enrolment Rejected": 61
+}, {
+    "State": "West Bengal",
+    "District": "South 24 Parganas",
+    "Aadhaar generated": 2051,
+    "Enrolment Rejected": 589
+}, {
+    "State": "West Bengal",
+    "District": "Uttar Dinajpur",
+    "Aadhaar generated": 386,
+    "Enrolment Rejected": 34
+}]

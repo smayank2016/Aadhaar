@@ -25,8 +25,9 @@ var performCalc = function(callback) {
             filename = file.substring(file.lastIndexOf('/') + 1);
             datafile = path.resolve('./tmp/' + filename);
             dateUpdated = (file).substr(((file).lastIndexOf('.') - 8), 8);
+            // dateUpdated = '20160831';
             console.log("Downloaded file date is  " + dateUpdated);
-            // console.log(dateUpdated.substr(0, 4) + '-' + dateUpdated.substr(4, 2) + '-' + dateUpdated.substr(6, 2));
+
             localdate = Date.parse(dateUpdated.substr(0, 4) + '-' + dateUpdated.substr(4, 2) + '-' + dateUpdated.substr(6, 2));
 
             Async.waterfall([
@@ -40,7 +41,17 @@ var performCalc = function(callback) {
                                     // console.log("Date from Master File " + masterdate);
                                     if (masterdate >= localdate) {
                                         // console.log('MasterDate is either EoG then localdate, hence skipped');
+                                        jsonstring = {
+                                            "State": content.State,
+                                            "District": content.District,
+                                            "Aadhaar generated": content["Aadhaar generated"],
+                                            "Enrolment Rejected": content["Enrolment Rejected"],
+                                            "Date Updated": content["Date Updated"]
+                                        };
+                                        jsonstring == "" ? "" : masterarray.push(jsonstring);
+                                        jsonstring = "";
                                     } else {
+
                                         if (isPresentInData(content.State, content.District) == true) {
                                             JSON.parse(fs.readFileSync(datafile))
                                                 .forEach(function(jsoncont) {
@@ -54,6 +65,8 @@ var performCalc = function(callback) {
                                                             "Enrolment Rejected": (content["Enrolment Rejected"] + jsoncont["Enrolment Rejected"]),
                                                             "Date Updated": dateUpdated
                                                         };
+                                                        jsonstring == "" ? "" : masterarray.push(jsonstring);
+                                                        jsonstring = "";
                                                     }
                                                 });
                                         } else {
@@ -64,9 +77,11 @@ var performCalc = function(callback) {
                                                 "Enrolment Rejected": content["Enrolment Rejected"],
                                                 "Date Updated": dateUpdated
                                             };
+                                            jsonstring == "" ? "" : masterarray.push(jsonstring);
+                                            jsonstring = "";
                                         }
-                                        jsonstring == "" ? "" : masterarray.push(jsonstring);
-                                        jsonstring = "";
+
+                                        // console.log('In Else');
                                     }
                                 });
                         } catch (ex) {
@@ -75,6 +90,12 @@ var performCalc = function(callback) {
                         console.log('Local Date is : ' + localdate);
                         console.log("Date from Master File " + masterdate);
                         console.log('Taking MasterFile as Base, searching in the Data File : Finished');
+                        // console.log(masterarray);
+                        if (masterdate >= localdate) {
+                            console.log("Date in MasterFile is GoE to downloaded file date, hence only missing components will be checked");
+                        } else {
+                            console.log("Date in MasterFile is Less than downloaded file date, hence Master file would be synced");
+                        }
                         searchindatacallback(null);
                     },
                     function(searchinmastercallback) {
@@ -90,18 +111,18 @@ var performCalc = function(callback) {
                                         "Enrolment Rejected": jsoncont["Enrolment Rejected"],
                                         "Date Updated": dateUpdated
                                     };
+                                    jsonstring == "" ? "" : masterarray.push(jsonstring);
+                                    console.log("Following Entry was missing in Master and is added " + jsoncont.State + " / " + jsoncont.District);
+                                    jsonstring = "";
                                 }
-                                jsonstring == "" ? "" : masterarray.push(jsonstring);
-                                jsonstring = "";
                             });
                         console.log('Taking DataFile as Base, searching in the Master File:Finished');
                         searchinmastercallback(null);
                     },
                     function(resultcallback) {
                         console.log('Writing Synced data back to Master File');
-                        // console.log(masterarray);
-                        console.log(masterarray[0]);
-                        console.log(masterarray[1]);
+                        console.log("components to write " + masterarray.length);
+                        // console.log(masterarray[0]);
                         if (masterarray[0] == undefined) {
                             console.log('Writing Synced data back to Master File:Skipped');
                         } else {
@@ -115,7 +136,7 @@ var performCalc = function(callback) {
                         console.log('In delete');
                         fs.readdirSync(filepath)
                             .forEach(function(item) {
-                                // console.log('Downloaded File name is : ' + item);
+                                console.log('Downloaded File name is : ' + item);
                                 fs.unlink(filepath + '//' + item);
                                 console.log('File Deleted : ' + item);
                             });
