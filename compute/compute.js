@@ -98,7 +98,7 @@ var performCalc = function(callback) {
                     function(resultcallback) {
                         console.log('Writing Synced data back to Master File');
                         // console.log(masterarray);
-                        console.log(masterarray);
+                        console.log(masterarray[0]);
                         if (masterarray[0] == undefined) {
                             console.log('Writing Synced data back to Master File:Skipped');
                         } else {
