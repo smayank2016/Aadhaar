@@ -3,10 +3,11 @@ var fs = require('fs');
 var Async = require('async');
 var setcollection = require('collections/set');
 var jsonfile = require('jsonfile');
-var masterarray = [];
+
 var date = new Date();
 var masterdate = '';
 var performCalc = function(callback) {
+    var masterarray = [];
     console.log('Starting Master Sync');
     var masterfile = path.resolve('./mstfolder/masterdata.json');
     var datafile = ''; //path.resolve('./mstfolder/data.json');
@@ -18,7 +19,7 @@ var performCalc = function(callback) {
     var masterdate = '';
     var localdate = '';
     var jsonset = new setcollection();
-    masterarray.length = 0;
+    // masterarray.length = 0;
     require('glob')(checkToContinueFilePath, function(er, files) {
         files.forEach(function(file) {
             filename = file.substring(file.lastIndexOf('/') + 1);
@@ -100,6 +101,7 @@ var performCalc = function(callback) {
                         console.log('Writing Synced data back to Master File');
                         // console.log(masterarray);
                         console.log(masterarray[0]);
+                        console.log(masterarray[1]);
                         if (masterarray[0] == undefined) {
                             console.log('Writing Synced data back to Master File:Skipped');
                         } else {
