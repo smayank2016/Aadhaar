@@ -18,6 +18,7 @@ var performCalc = function(callback) {
     var masterdate = '';
     var localdate = '';
     var jsonset = new setcollection();
+    masterarray.length = 0;
     require('glob')(checkToContinueFilePath, function(er, files) {
         files.forEach(function(file) {
             filename = file.substring(file.lastIndexOf('/') + 1);
